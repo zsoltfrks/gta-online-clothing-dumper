@@ -1,0 +1,779 @@
+[
+  { "texture": 0, "id": "undershirts_0", "drawable": 0 },
+  { "texture": 0, "id": "undershirts_1", "drawable": 1 },
+  { "texture": 0, "id": "undershirts_2", "drawable": 2 },
+  { "texture": 0, "id": "undershirts_3", "drawable": 3 },
+  { "texture": 0, "id": "undershirts_4", "drawable": 4 },
+  { "texture": 0, "id": "undershirts_5", "drawable": 5 },
+  { "texture": 0, "id": "undershirts_6", "drawable": 6 },
+  { "texture": 0, "id": "undershirts_7", "drawable": 7 },
+  { "texture": 0, "id": "undershirts_8", "drawable": 8 },
+  { "texture": 0, "id": "undershirts_9", "drawable": 9 },
+  { "texture": 0, "id": "undershirts_10", "drawable": 10 },
+  { "texture": 0, "id": "undershirts_11", "drawable": 11 },
+  { "texture": 0, "id": "undershirts_12", "drawable": 12 },
+  { "texture": 0, "id": "undershirts_13", "drawable": 13 },
+  { "texture": 0, "id": "undershirts_14", "drawable": 14 },
+  { "texture": 0, "id": "undershirts_15", "drawable": 15 },
+  {
+    "id": "undershirts_16",
+    "drawable": 16,
+    "texture": 0,
+    "label": "Cerveza Barracho V Neck"
+  },
+  {
+    "id": "undershirts_17",
+    "drawable": 17,
+    "texture": 0,
+    "label": "Blue Tank"
+  },
+  {
+    "id": "undershirts_18",
+    "drawable": 18,
+    "texture": 0,
+    "label": "Cerveza Barracho V Neck"
+  },
+  {
+    "id": "undershirts_19",
+    "drawable": 19,
+    "texture": 0,
+    "label": "Santa T-Shirt"
+  },
+  {
+    "id": "undershirts_20",
+    "drawable": 20,
+    "texture": 0,
+    "label": "Santa T-Shirt"
+  },
+  {
+    "id": "undershirts_21",
+    "drawable": 21,
+    "texture": 0,
+    "label": "Black Cuffed Suit Shirt"
+  },
+  {
+    "id": "undershirts_22",
+    "drawable": 22,
+    "texture": 0,
+    "label": "Black Band Vest Shirt"
+  },
+  {
+    "id": "undershirts_23",
+    "drawable": 23,
+    "texture": 0,
+    "label": "White Love T-Shirt"
+  },
+  {
+    "id": "undershirts_24",
+    "drawable": 24,
+    "texture": 0,
+    "label": "White Love T-Shirt"
+  },
+  {
+    "id": "undershirts_25",
+    "drawable": 25,
+    "texture": 0,
+    "label": "Light Gray Suit Vest"
+  },
+  {
+    "id": "undershirts_26",
+    "drawable": 26,
+    "texture": 0,
+    "label": "Light Gray Suit Vest"
+  },
+  {
+    "id": "undershirts_27",
+    "drawable": 27,
+    "texture": 0,
+    "label": "Navy Tucked"
+  },
+  {
+    "id": "undershirts_28",
+    "drawable": 28,
+    "texture": 0,
+    "label": "White Cuffed Shirt"
+  },
+  {
+    "id": "undershirts_29",
+    "drawable": 29,
+    "texture": 0,
+    "label": "Blue Check Shirt"
+  },
+  {
+    "id": "undershirts_30",
+    "drawable": 30,
+    "texture": 0,
+    "label": "Blue Check Shirt"
+  },
+  {
+    "id": "undershirts_31",
+    "drawable": 31,
+    "texture": 0,
+    "label": "White Cuffed Shirt"
+  },
+  {
+    "id": "undershirts_32",
+    "drawable": 32,
+    "texture": 0,
+    "label": "White Cuffed Shirt"
+  },
+  {
+    "id": "undershirts_33",
+    "drawable": 33,
+    "texture": 0,
+    "label": "Black Fitted Suit Vest"
+  },
+  {
+    "id": "undershirts_34",
+    "drawable": 34,
+    "texture": 0,
+    "label": "Black Fitted Suit Vest"
+  },
+  {
+    "id": "undershirts_35",
+    "drawable": 35,
+    "texture": 0,
+    "label": "Black Fitted Suit Vest"
+  },
+  {
+    "id": "undershirts_36",
+    "drawable": 36,
+    "texture": 0,
+    "label": "Black Fitted Suit Vest"
+  },
+  {
+    "id": "undershirts_37",
+    "drawable": 37,
+    "texture": 0,
+    "label": "Gray Striped T-Shirt"
+  },
+  {
+    "id": "undershirts_38",
+    "drawable": 38,
+    "texture": 0,
+    "label": "Love Fist V Neck"
+  },
+  {
+    "id": "undershirts_39",
+    "drawable": 39,
+    "texture": 0,
+    "label": "Gray Striped T-Shirt"
+  },
+  {
+    "id": "undershirts_40",
+    "drawable": 40,
+    "texture": 0,
+    "label": "Blue Banded Tank"
+  },
+  {
+    "id": "undershirts_41",
+    "drawable": 41,
+    "texture": 0,
+    "label": "Charcoal Two-Tone Tee"
+  },
+  {
+    "id": "undershirts_42",
+    "drawable": 42,
+    "texture": 0,
+    "label": "Red Two-Tone Polo Shirt"
+  },
+  {
+    "id": "undershirts_43",
+    "drawable": 43,
+    "texture": 0,
+    "label": "Red Check Untucked"
+  },
+  {
+    "id": "undershirts_44",
+    "drawable": 44,
+    "texture": 0,
+    "label": "Love Fist V Neck"
+  },
+  {
+    "id": "undershirts_45",
+    "drawable": 45,
+    "texture": 0,
+    "label": "Denim Shirt & Braces"
+  },
+  {
+    "id": "undershirts_46",
+    "drawable": 46,
+    "texture": 0,
+    "label": "Denim Shirt & Braces"
+  },
+  {
+    "id": "undershirts_47",
+    "drawable": 47,
+    "texture": 0,
+    "label": "Green T-Shirt"
+  },
+  {
+    "id": "undershirts_48",
+    "drawable": 48,
+    "texture": 0,
+    "label": "Green T-Shirt"
+  },
+  {
+    "id": "undershirts_49",
+    "drawable": 49,
+    "texture": 0,
+    "label": "White Vest Shirt"
+  },
+  {
+    "id": "undershirts_50",
+    "drawable": 50,
+    "texture": 0,
+    "label": "White Vest Shirt"
+  },
+  {
+    "id": "undershirts_51",
+    "drawable": 51,
+    "texture": 0,
+    "label": "Blue Vertical Vest Shirt"
+  },
+  {
+    "id": "undershirts_52",
+    "drawable": 52,
+    "texture": 0,
+    "label": "Blue Vertical Vest Shirt"
+  },
+  {
+    "id": "undershirts_53",
+    "drawable": 53,
+    "texture": 0,
+    "label": "Freedom T-Shirt"
+  },
+  {
+    "id": "undershirts_54",
+    "drawable": 54,
+    "texture": 0,
+    "label": "Freedom T-Shirt"
+  },
+  {
+    "id": "undershirts_55",
+    "drawable": 55,
+    "texture": 0,
+    "label": "Stealth Utility Vest"
+  },
+  {
+    "id": "undershirts_56",
+    "drawable": 56,
+    "texture": 0,
+    "label": "Gray Heavy Utility Vest"
+  },
+  { "texture": 0, "id": "undershirts_57", "drawable": 57 },
+  { "texture": 0, "id": "undershirts_58", "drawable": 58 },
+  { "texture": 0, "id": "undershirts_59", "drawable": 59 },
+  { "texture": 0, "id": "undershirts_60", "drawable": 60 },
+  { "texture": 0, "id": "undershirts_61", "drawable": 61 },
+  { "texture": 0, "id": "undershirts_62", "drawable": 62 },
+  {
+    "id": "undershirts_63",
+    "drawable": 63,
+    "texture": 0,
+    "label": "White Untucked"
+  },
+  {
+    "id": "undershirts_64",
+    "drawable": 64,
+    "texture": 0,
+    "label": "White Untucked"
+  },
+  {
+    "id": "undershirts_65",
+    "drawable": 65,
+    "texture": 0,
+    "label": "Pegasus T-Shirt"
+  },
+  {
+    "id": "undershirts_66",
+    "drawable": 66,
+    "texture": 0,
+    "label": "Pegasus T-Shirt"
+  },
+  {
+    "id": "undershirts_67",
+    "drawable": 67,
+    "texture": 0,
+    "label": "Gold Shiny T-Shirt"
+  },
+  {
+    "id": "undershirts_68",
+    "drawable": 68,
+    "texture": 0,
+    "label": "Gold Shiny T-Shirt"
+  },
+  { "texture": 0, "id": "undershirts_69", "drawable": 69 },
+  {
+    "id": "undershirts_70",
+    "drawable": 70,
+    "texture": 0,
+    "label": "White Sweater Shirt"
+  },
+  { "texture": 0, "id": "undershirts_71", "drawable": 71 },
+  { "texture": 0, "id": "undershirts_72", "drawable": 72 },
+  {
+    "id": "undershirts_73",
+    "drawable": 73,
+    "texture": 0,
+    "label": "Blue Sweater Shirt"
+  },
+  {
+    "id": "undershirts_74",
+    "drawable": 74,
+    "texture": 0,
+    "label": "Gray Turtleneck"
+  },
+  {
+    "id": "undershirts_75",
+    "drawable": 75,
+    "texture": 0,
+    "label": "Gray Turtleneck"
+  },
+  { "texture": 0, "id": "undershirts_76", "drawable": 76 },
+  { "texture": 0, "id": "undershirts_77", "drawable": 77 },
+  { "texture": 0, "id": "undershirts_78", "drawable": 78 },
+  { "texture": 0, "id": "undershirts_79", "drawable": 79 },
+  { "texture": 0, "id": "undershirts_80", "drawable": 80 },
+  {
+    "id": "undershirts_81",
+    "drawable": 81,
+    "texture": 0,
+    "label": "Crew T-Shirt"
+  },
+  {
+    "id": "undershirts_82",
+    "drawable": 82,
+    "texture": 0,
+    "label": "Brown Full Print T-Shirt"
+  },
+  {
+    "id": "undershirts_83",
+    "drawable": 83,
+    "texture": 0,
+    "label": "Crew T-Shirt"
+  },
+  {
+    "id": "undershirts_84",
+    "drawable": 84,
+    "texture": 0,
+    "label": "Brown Full Print T-Shirt"
+  },
+  {
+    "id": "undershirts_85",
+    "drawable": 85,
+    "texture": 0,
+    "label": "Crew T-Shirt"
+  },
+  {
+    "id": "undershirts_86",
+    "drawable": 86,
+    "texture": 0,
+    "label": "Brown Full Print T-Shirt"
+  },
+  {
+    "id": "undershirts_87",
+    "drawable": 87,
+    "texture": 0,
+    "label": "Gold Shiny T-Shirt"
+  },
+  {
+    "id": "undershirts_88",
+    "drawable": 88,
+    "texture": 0,
+    "label": "Gold Shiny T-Shirt"
+  },
+  {
+    "id": "undershirts_89",
+    "drawable": 89,
+    "texture": 0,
+    "label": "Gold Shiny T-Shirt"
+  },
+  {
+    "id": "undershirts_90",
+    "drawable": 90,
+    "texture": 0,
+    "label": "Navy Blazer Shirt"
+  },
+  {
+    "id": "undershirts_91",
+    "drawable": 91,
+    "texture": 0,
+    "label": "Cream with White Shirt"
+  },
+  {
+    "id": "undershirts_92",
+    "drawable": 92,
+    "texture": 0,
+    "label": "Cream with White Turtle"
+  },
+  { "texture": 0, "id": "undershirts_93", "drawable": 93 },
+  { "texture": 0, "id": "undershirts_94", "drawable": 94 },
+  { "texture": 0, "id": "undershirts_95", "drawable": 95 },
+  { "texture": 0, "id": "undershirts_96", "drawable": 96 },
+  { "texture": 0, "id": "undershirts_97", "drawable": 97 },
+  {
+    "id": "undershirts_98",
+    "drawable": 98,
+    "texture": 0,
+    "label": "Blue Digital T-Shirt"
+  },
+  {
+    "id": "undershirts_99",
+    "drawable": 99,
+    "texture": 0,
+    "label": "Blue Digital T-Shirt"
+  },
+  {
+    "id": "undershirts_100",
+    "drawable": 100,
+    "texture": 0,
+    "label": "Blue Digital T-Shirt"
+  },
+  {
+    "id": "undershirts_101",
+    "drawable": 101,
+    "texture": 0,
+    "label": "Blue Digital T-Shirt"
+  },
+  {
+    "id": "undershirts_102",
+    "drawable": 102,
+    "texture": 0,
+    "label": "Blue Digital T-Shirt"
+  },
+  {
+    "id": "undershirts_103",
+    "drawable": 103,
+    "texture": 0,
+    "label": "Knuckleduster Pocket Tee"
+  },
+  {
+    "id": "undershirts_104",
+    "drawable": 104,
+    "texture": 0,
+    "label": "Knuckleduster Pocket Tee"
+  },
+  {
+    "id": "undershirts_105",
+    "drawable": 105,
+    "texture": 0,
+    "label": "Knuckleduster Pocket Tee"
+  },
+  {
+    "id": "undershirts_106",
+    "drawable": 106,
+    "texture": 0,
+    "label": "Knuckleduster Pocket Tee"
+  },
+  {
+    "id": "undershirts_107",
+    "drawable": 107,
+    "texture": 0,
+    "label": "Knuckleduster Pocket Tee"
+  },
+  { "texture": 0, "id": "undershirts_108", "drawable": 108 },
+  {
+    "id": "undershirts_109",
+    "drawable": 109,
+    "texture": 0,
+    "label": "LC Beavers Dark"
+  },
+  {
+    "id": "undershirts_110",
+    "drawable": 110,
+    "texture": 0,
+    "label": "LC Beavers Dark Tucked"
+  },
+  { "texture": 0, "id": "undershirts_111", "drawable": 111 },
+  { "texture": 0, "id": "undershirts_112", "drawable": 112 },
+  { "texture": 0, "id": "undershirts_113", "drawable": 113 },
+  { "texture": 0, "id": "undershirts_114", "drawable": 114 },
+  { "texture": 0, "id": "undershirts_115", "drawable": 115 },
+  { "texture": 0, "id": "undershirts_116", "drawable": 116 },
+  {
+    "id": "undershirts_117",
+    "drawable": 117,
+    "texture": 0,
+    "label": "Blue Digital Rolled Tee"
+  },
+  {
+    "id": "undershirts_118",
+    "drawable": 118,
+    "texture": 0,
+    "label": "Blue Digital Rolled Tee"
+  },
+  {
+    "id": "undershirts_119",
+    "drawable": 119,
+    "texture": 0,
+    "label": "Blue Digital Rolled Tee"
+  },
+  {
+    "id": "undershirts_120",
+    "drawable": 120,
+    "texture": 0,
+    "label": "Blue Digital Rolled Tee"
+  },
+  {
+    "id": "undershirts_121",
+    "drawable": 121,
+    "texture": 0,
+    "label": "Blue Digital Rolled Tee"
+  },
+  { "texture": 0, "id": "undershirts_122", "drawable": 122 },
+  { "texture": 0, "id": "undershirts_123", "drawable": 123 },
+  {
+    "id": "undershirts_124",
+    "drawable": 124,
+    "texture": 0,
+    "label": "Ultralight Strike Vest"
+  },
+  {
+    "id": "undershirts_125",
+    "drawable": 125,
+    "texture": 0,
+    "label": "Light Strike Vest"
+  },
+  {
+    "id": "undershirts_126",
+    "drawable": 126,
+    "texture": 0,
+    "label": "Mid Strike Vest"
+  },
+  {
+    "id": "undershirts_127",
+    "drawable": 127,
+    "texture": 0,
+    "label": "Heavy Strike Vest"
+  },
+  {
+    "id": "undershirts_128",
+    "drawable": 128,
+    "texture": 0,
+    "label": "Extreme Strike Vest"
+  },
+  { "texture": 0, "id": "undershirts_129", "drawable": 129 },
+  { "texture": 0, "id": "undershirts_130", "drawable": 130 },
+  {
+    "id": "undershirts_131",
+    "drawable": 131,
+    "texture": 0,
+    "label": "Black Plate Carrier"
+  },
+  {
+    "id": "undershirts_132",
+    "drawable": 132,
+    "texture": 0,
+    "label": "Crewneck T-Shirt"
+  },
+  {
+    "id": "undershirts_133",
+    "drawable": 133,
+    "texture": 0,
+    "label": "Crewneck T-Shirt"
+  },
+  {
+    "id": "undershirts_134",
+    "drawable": 134,
+    "texture": 0,
+    "label": "Crewneck T-Shirt"
+  },
+  {
+    "id": "undershirts_135",
+    "drawable": 135,
+    "texture": 0,
+    "label": "Crewneck T-Shirt"
+  },
+  {
+    "id": "undershirts_136",
+    "drawable": 136,
+    "texture": 0,
+    "label": "Crewneck T-Shirt"
+  },
+  { "texture": 0, "id": "undershirts_137", "drawable": 137 },
+  { "texture": 0, "id": "undershirts_138", "drawable": 138 },
+  { "texture": 0, "id": "undershirts_139", "drawable": 139 },
+  { "texture": 0, "id": "undershirts_140", "drawable": 140 },
+  { "texture": 0, "id": "undershirts_141", "drawable": 141 },
+  { "texture": 0, "id": "undershirts_142", "drawable": 142 },
+  { "texture": 0, "id": "undershirts_143", "drawable": 143 },
+  { "texture": 0, "id": "undershirts_144", "drawable": 144 },
+  { "texture": 0, "id": "undershirts_145", "drawable": 145 },
+  {
+    "id": "undershirts_146",
+    "drawable": 146,
+    "texture": 0,
+    "label": "Sharp High Roller Waistcoat"
+  },
+  {
+    "id": "undershirts_147",
+    "drawable": 147,
+    "texture": 0,
+    "label": "Sharp High Roller Waistcoat"
+  },
+  {
+    "id": "undershirts_148",
+    "drawable": 148,
+    "texture": 0,
+    "label": "Sharp High Roller Waistcoat"
+  },
+  {
+    "id": "undershirts_149",
+    "drawable": 149,
+    "texture": 0,
+    "label": "Sharp High Roller Waistcoat"
+  },
+  { "texture": 0, "id": "undershirts_150", "drawable": 150 },
+  { "texture": 0, "id": "undershirts_151", "drawable": 151 },
+  {
+    "id": "undershirts_152",
+    "drawable": 152,
+    "texture": 0,
+    "label": "Gray & Brown Armor"
+  },
+  { "texture": 0, "id": "undershirts_153", "drawable": 153 },
+  { "texture": 0, "id": "undershirts_154", "drawable": 154 },
+  { "texture": 0, "id": "undershirts_155", "drawable": 155 },
+  { "texture": 0, "id": "undershirts_156", "drawable": 156 },
+  {
+    "id": "undershirts_157",
+    "drawable": 157,
+    "texture": 0,
+    "label": "White Dress Shirt"
+  },
+  {
+    "id": "undershirts_158",
+    "drawable": 158,
+    "texture": 0,
+    "label": "White Dress Shirt"
+  },
+  { "texture": 0, "id": "undershirts_159", "drawable": 159 },
+  { "texture": 0, "id": "undershirts_160", "drawable": 160 },
+  { "texture": 0, "id": "undershirts_161", "drawable": 161 },
+  { "texture": 0, "id": "undershirts_162", "drawable": 162 },
+  {
+    "id": "undershirts_163",
+    "drawable": 163,
+    "texture": 0,
+    "label": "Black Pocket Vest"
+  },
+  {
+    "id": "undershirts_164",
+    "drawable": 164,
+    "texture": 0,
+    "label": "Black Reinforced Armor"
+  },
+  { "texture": 0, "id": "undershirts_165", "drawable": 165 },
+  { "texture": 0, "id": "undershirts_166", "drawable": 166 },
+  { "texture": 0, "id": "undershirts_167", "drawable": 167 },
+  { "texture": 0, "id": "undershirts_168", "drawable": 168 },
+  { "texture": 0, "id": "undershirts_169", "drawable": 169 },
+  {
+    "id": "undershirts_170",
+    "drawable": 170,
+    "texture": 0,
+    "label": "Black Plate Carrier"
+  },
+  {
+    "id": "undershirts_171",
+    "drawable": 171,
+    "texture": 0,
+    "label": "Beige Fishing Vest"
+  },
+  {
+    "id": "undershirts_172",
+    "drawable": 172,
+    "texture": 0,
+    "label": "White Strapz Vest"
+  },
+  { "texture": 0, "id": "undershirts_173", "drawable": 173 },
+  { "texture": 0, "id": "undershirts_174", "drawable": 174 },
+  { "texture": 0, "id": "undershirts_175", "drawable": 175 },
+  { "texture": 0, "id": "undershirts_176", "drawable": 176 },
+  { "texture": 0, "id": "undershirts_177", "drawable": 177 },
+  {
+    "id": "undershirts_178",
+    "drawable": 178,
+    "texture": 0,
+    "label": "White Dress Shirt"
+  },
+  {
+    "id": "undershirts_179",
+    "drawable": 179,
+    "texture": 0,
+    "label": "White Dress Shirt"
+  },
+  { "texture": 0, "id": "undershirts_180", "drawable": 180 },
+  { "texture": 0, "id": "undershirts_181", "drawable": 181 },
+  { "texture": 0, "id": "undershirts_182", "drawable": 182 },
+  { "texture": 0, "id": "undershirts_183", "drawable": 183 },
+  {
+    "id": "undershirts_184",
+    "drawable": 184,
+    "texture": 0,
+    "label": "Green Festive Tee"
+  },
+  {
+    "id": "undershirts_185",
+    "drawable": 185,
+    "texture": 0,
+    "label": "Green Festive Tee"
+  },
+  {
+    "id": "undershirts_186",
+    "drawable": 186,
+    "texture": 0,
+    "label": "Green Festive Tee"
+  },
+  {
+    "id": "undershirts_187",
+    "drawable": 187,
+    "texture": 0,
+    "label": "Green Festive Tee"
+  },
+  {
+    "id": "undershirts_188",
+    "drawable": 188,
+    "texture": 0,
+    "label": "Green Festive Tee"
+  },
+  { "texture": 0, "id": "undershirts_189", "drawable": 189 },
+  {
+    "id": "undershirts_190",
+    "drawable": 190,
+    "texture": 0,
+    "label": "The Diamond Strike Vest"
+  },
+  { "texture": 0, "id": "undershirts_191", "drawable": 191 },
+  { "texture": 0, "id": "undershirts_192", "drawable": 192 },
+  { "texture": 0, "id": "undershirts_193", "drawable": 193 },
+  { "texture": 0, "id": "undershirts_194", "drawable": 194 },
+  { "texture": 0, "id": "undershirts_195", "drawable": 195 },
+  { "texture": 0, "id": "undershirts_196", "drawable": 196 },
+  { "texture": 0, "id": "undershirts_197", "drawable": 197 },
+  { "texture": 0, "id": "undershirts_198", "drawable": 198 },
+  { "texture": 0, "id": "undershirts_199", "drawable": 199 },
+  { "texture": 0, "id": "undershirts_200", "drawable": 200 },
+  { "texture": 0, "id": "undershirts_201", "drawable": 201 },
+  { "texture": 0, "id": "undershirts_202", "drawable": 202 },
+  { "texture": 0, "id": "undershirts_203", "drawable": 203 },
+  { "texture": 0, "id": "undershirts_204", "drawable": 204 },
+  { "texture": 0, "id": "undershirts_205", "drawable": 205 },
+  { "texture": 0, "id": "undershirts_206", "drawable": 206 },
+  { "texture": 0, "id": "undershirts_207", "drawable": 207 },
+  { "texture": 0, "id": "undershirts_208", "drawable": 208 },
+  { "texture": 0, "id": "undershirts_209", "drawable": 209 },
+  { "texture": 0, "id": "undershirts_210", "drawable": 210 },
+  { "texture": 0, "id": "undershirts_211", "drawable": 211 },
+  { "texture": 0, "id": "undershirts_212", "drawable": 212 },
+  { "texture": 0, "id": "undershirts_213", "drawable": 213 },
+  { "texture": 0, "id": "undershirts_214", "drawable": 214 },
+  { "texture": 0, "id": "undershirts_215", "drawable": 215 },
+  { "texture": 0, "id": "undershirts_216", "drawable": 216 },
+  { "texture": 0, "id": "undershirts_217", "drawable": 217 },
+  { "texture": 0, "id": "undershirts_218", "drawable": 218 },
+  { "texture": 0, "id": "undershirts_219", "drawable": 219 },
+  { "texture": 0, "id": "undershirts_220", "drawable": 220 },
+  { "texture": 0, "id": "undershirts_221", "drawable": 221 }
+]

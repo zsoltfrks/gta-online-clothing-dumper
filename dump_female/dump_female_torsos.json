@@ -1,0 +1,1226 @@
+[
+  { "texture": 0, "id": "torsos_0", "drawable": 0 },
+  { "texture": 0, "id": "torsos_1", "drawable": 1 },
+  { "texture": 0, "id": "torsos_2", "drawable": 2 },
+  { "texture": 0, "id": "torsos_3", "drawable": 3 },
+  { "texture": 0, "id": "torsos_4", "drawable": 4 },
+  { "texture": 0, "id": "torsos_5", "drawable": 5 },
+  { "texture": 0, "id": "torsos_6", "drawable": 6 },
+  { "texture": 0, "id": "torsos_7", "drawable": 7 },
+  { "texture": 0, "id": "torsos_8", "drawable": 8 },
+  { "texture": 0, "id": "torsos_9", "drawable": 9 },
+  { "texture": 0, "id": "torsos_10", "drawable": 10 },
+  { "texture": 0, "id": "torsos_11", "drawable": 11 },
+  { "texture": 0, "id": "torsos_12", "drawable": 12 },
+  { "texture": 0, "id": "torsos_13", "drawable": 13 },
+  { "texture": 0, "id": "torsos_14", "drawable": 14 },
+  { "texture": 0, "id": "torsos_15", "drawable": 15 },
+  {
+    "id": "torsos_16",
+    "drawable": 16,
+    "label": "Magenta Long Gloves",
+    "texture": 0
+  },
+  { "texture": 0, "id": "torsos_17", "drawable": 17 },
+  {
+    "id": "torsos_18",
+    "drawable": 18,
+    "label": "Black Tact Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_19",
+    "drawable": 19,
+    "label": "Black Wool Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_20",
+    "drawable": 20,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_21",
+    "drawable": 21,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_22",
+    "drawable": 22,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_23",
+    "drawable": 23,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_24",
+    "drawable": 24,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_25",
+    "drawable": 25,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_26",
+    "drawable": 26,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_27",
+    "drawable": 27,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_28",
+    "drawable": 28,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_29",
+    "drawable": 29,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_30",
+    "drawable": 30,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_31",
+    "drawable": 31,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_32",
+    "drawable": 32,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_33",
+    "drawable": 33,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_34",
+    "drawable": 34,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_35",
+    "drawable": 35,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_36",
+    "drawable": 36,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_37",
+    "drawable": 37,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_38",
+    "drawable": 38,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_39",
+    "drawable": 39,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_40",
+    "drawable": 40,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_41",
+    "drawable": 41,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_42",
+    "drawable": 42,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_43",
+    "drawable": 43,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_44",
+    "drawable": 44,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_45",
+    "drawable": 45,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_46",
+    "drawable": 46,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_47",
+    "drawable": 47,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_48",
+    "drawable": 48,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_49",
+    "drawable": 49,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_50",
+    "drawable": 50,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_51",
+    "drawable": 51,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_52",
+    "drawable": 52,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_53",
+    "drawable": 53,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_54",
+    "drawable": 54,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_55",
+    "drawable": 55,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_56",
+    "drawable": 56,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_57",
+    "drawable": 57,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_58",
+    "drawable": 58,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_59",
+    "drawable": 59,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_60",
+    "drawable": 60,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_61",
+    "drawable": 61,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_62",
+    "drawable": 62,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_63",
+    "drawable": 63,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_64",
+    "drawable": 64,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_65",
+    "drawable": 65,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_66",
+    "drawable": 66,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_67",
+    "drawable": 67,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_68",
+    "drawable": 68,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_69",
+    "drawable": 69,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_70",
+    "drawable": 70,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_71",
+    "drawable": 71,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_72",
+    "drawable": 72,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_73",
+    "drawable": 73,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_74",
+    "drawable": 74,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_75",
+    "drawable": 75,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_76",
+    "drawable": 76,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_77",
+    "drawable": 77,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_78",
+    "drawable": 78,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_79",
+    "drawable": 79,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_80",
+    "drawable": 80,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_81",
+    "drawable": 81,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_82",
+    "drawable": 82,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_83",
+    "drawable": 83,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_84",
+    "drawable": 84,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_85",
+    "drawable": 85,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_86",
+    "drawable": 86,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_87",
+    "drawable": 87,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_88",
+    "drawable": 88,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_89",
+    "drawable": 89,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_90",
+    "drawable": 90,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_91",
+    "drawable": 91,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_92",
+    "drawable": 92,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_93",
+    "drawable": 93,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_94",
+    "drawable": 94,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_95",
+    "drawable": 95,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_96",
+    "drawable": 96,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_97",
+    "drawable": 97,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_98",
+    "drawable": 98,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_99",
+    "drawable": 99,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_100",
+    "drawable": 100,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_101",
+    "drawable": 101,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_102",
+    "drawable": 102,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_103",
+    "drawable": 103,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_104",
+    "drawable": 104,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_105",
+    "drawable": 105,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_106",
+    "drawable": 106,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_107",
+    "drawable": 107,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_108",
+    "drawable": 108,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_109",
+    "drawable": 109,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_110",
+    "drawable": 110,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  { "texture": 0, "id": "torsos_111", "drawable": 111 },
+  { "texture": 0, "id": "torsos_112", "drawable": 112 },
+  { "texture": 0, "id": "torsos_113", "drawable": 113 },
+  { "texture": 0, "id": "torsos_114", "drawable": 114 },
+  { "texture": 0, "id": "torsos_115", "drawable": 115 },
+  { "texture": 0, "id": "torsos_116", "drawable": 116 },
+  { "texture": 0, "id": "torsos_117", "drawable": 117 },
+  { "texture": 0, "id": "torsos_118", "drawable": 118 },
+  { "texture": 0, "id": "torsos_119", "drawable": 119 },
+  { "texture": 0, "id": "torsos_120", "drawable": 120 },
+  { "texture": 0, "id": "torsos_121", "drawable": 121 },
+  { "texture": 0, "id": "torsos_122", "drawable": 122 },
+  { "texture": 0, "id": "torsos_123", "drawable": 123 },
+  { "texture": 0, "id": "torsos_124", "drawable": 124 },
+  { "texture": 0, "id": "torsos_125", "drawable": 125 },
+  { "texture": 0, "id": "torsos_126", "drawable": 126 },
+  {
+    "id": "torsos_127",
+    "drawable": 127,
+    "label": "Racesuit Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_128",
+    "drawable": 128,
+    "label": "Motocross Gloves",
+    "texture": 0
+  },
+  { "texture": 0, "id": "torsos_129", "drawable": 129 },
+  { "texture": 0, "id": "torsos_130", "drawable": 130 },
+  { "texture": 0, "id": "torsos_131", "drawable": 131 },
+  {
+    "id": "torsos_132",
+    "drawable": 132,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_133",
+    "drawable": 133,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_134",
+    "drawable": 134,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_135",
+    "drawable": 135,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_136",
+    "drawable": 136,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_137",
+    "drawable": 137,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_138",
+    "drawable": 138,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_139",
+    "drawable": 139,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_140",
+    "drawable": 140,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_141",
+    "drawable": 141,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_142",
+    "drawable": 142,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_143",
+    "drawable": 143,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_144",
+    "drawable": 144,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_145",
+    "drawable": 145,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_146",
+    "drawable": 146,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_147",
+    "drawable": 147,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_148",
+    "drawable": 148,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_149",
+    "drawable": 149,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_150",
+    "drawable": 150,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_151",
+    "drawable": 151,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_152",
+    "drawable": 152,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  { "texture": 0, "id": "torsos_153", "drawable": 153 },
+  {
+    "id": "torsos_154",
+    "drawable": 154,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_155",
+    "drawable": 155,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_156",
+    "drawable": 156,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_157",
+    "drawable": 157,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_158",
+    "drawable": 158,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_159",
+    "drawable": 159,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_160",
+    "drawable": 160,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  { "texture": 0, "id": "torsos_161", "drawable": 161 },
+  {
+    "id": "torsos_162",
+    "drawable": 162,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_163",
+    "drawable": 163,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_164",
+    "drawable": 164,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_165",
+    "drawable": 165,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_166",
+    "drawable": 166,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_167",
+    "drawable": 167,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_168",
+    "drawable": 168,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_169",
+    "drawable": 169,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_170",
+    "drawable": 170,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_171",
+    "drawable": 171,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_172",
+    "drawable": 172,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_173",
+    "drawable": 173,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_174",
+    "drawable": 174,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_175",
+    "drawable": 175,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_176",
+    "drawable": 176,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_177",
+    "drawable": 177,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_178",
+    "drawable": 178,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_179",
+    "drawable": 179,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_180",
+    "drawable": 180,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_181",
+    "drawable": 181,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_182",
+    "drawable": 182,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_183",
+    "drawable": 183,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_184",
+    "drawable": 184,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_185",
+    "drawable": 185,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_186",
+    "drawable": 186,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_187",
+    "drawable": 187,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_188",
+    "drawable": 188,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_189",
+    "drawable": 189,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_190",
+    "drawable": 190,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_191",
+    "drawable": 191,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_192",
+    "drawable": 192,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_193",
+    "drawable": 193,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_194",
+    "drawable": 194,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_195",
+    "drawable": 195,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_196",
+    "drawable": 196,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_197",
+    "drawable": 197,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_198",
+    "drawable": 198,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_199",
+    "drawable": 199,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_200",
+    "drawable": 200,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_201",
+    "drawable": 201,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_202",
+    "drawable": 202,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_203",
+    "drawable": 203,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_204",
+    "drawable": 204,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  { "texture": 0, "id": "torsos_205", "drawable": 205 },
+  { "texture": 0, "id": "torsos_206", "drawable": 206 },
+  { "texture": 0, "id": "torsos_207", "drawable": 207 },
+  { "texture": 0, "id": "torsos_208", "drawable": 208 },
+  { "texture": 0, "id": "torsos_209", "drawable": 209 },
+  { "texture": 0, "id": "torsos_210", "drawable": 210 },
+  {
+    "id": "torsos_211",
+    "drawable": 211,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_212",
+    "drawable": 212,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_213",
+    "drawable": 213,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_214",
+    "drawable": 214,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_215",
+    "drawable": 215,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_216",
+    "drawable": 216,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_217",
+    "drawable": 217,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_218",
+    "drawable": 218,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_219",
+    "drawable": 219,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_220",
+    "drawable": 220,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_221",
+    "drawable": 221,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_222",
+    "drawable": 222,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_223",
+    "drawable": 223,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_224",
+    "drawable": 224,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_225",
+    "drawable": 225,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_226",
+    "drawable": 226,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_227",
+    "drawable": 227,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_228",
+    "drawable": 228,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  { "texture": 0, "id": "torsos_229", "drawable": 229 },
+  {
+    "id": "torsos_230",
+    "drawable": 230,
+    "label": "Black Driving Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_231",
+    "drawable": 231,
+    "label": "Black Leather Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_232",
+    "drawable": 232,
+    "label": "Black Woolen Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_233",
+    "drawable": 233,
+    "label": "Black Fingerless Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_234",
+    "drawable": 234,
+    "label": "Refuse Collector Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_235",
+    "drawable": 235,
+    "label": "White Cotton Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_236",
+    "drawable": 236,
+    "label": "Blue Surgical Gloves",
+    "texture": 0
+  },
+  {
+    "id": "torsos_237",
+    "drawable": 237,
+    "label": "Blue Digital Armored",
+    "texture": 0
+  },
+  {
+    "id": "torsos_238",
+    "drawable": 238,
+    "label": "Blue Digital Tactical",
+    "texture": 0
+  },
+  {
+    "id": "torsos_239",
+    "drawable": 239,
+    "label": "Black Armored",
+    "texture": 0
+  },
+  { "texture": 0, "id": "torsos_240", "drawable": 240 },
+  { "texture": 0, "id": "torsos_241", "drawable": 241 },
+  { "texture": 0, "id": "torsos_242", "drawable": 242 },
+  { "texture": 0, "id": "torsos_243", "drawable": 243 },
+  { "texture": 0, "id": "torsos_244", "drawable": 244 },
+  { "texture": 0, "id": "torsos_245", "drawable": 245 },
+  { "texture": 0, "id": "torsos_246", "drawable": 246 },
+  { "texture": 0, "id": "torsos_247", "drawable": 247 },
+  { "texture": 0, "id": "torsos_248", "drawable": 248 }
+]

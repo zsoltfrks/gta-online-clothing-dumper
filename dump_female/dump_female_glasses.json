@@ -1,0 +1,243 @@
+[
+  { "texture": 0, "id": "glasses_0", "drawable": 0 },
+  { "texture": 0, "id": "glasses_1", "drawable": 1 },
+  { "texture": 0, "id": "glasses_2", "drawable": 2 },
+  { "texture": 0, "id": "glasses_3", "drawable": 3 },
+  { "texture": 0, "id": "glasses_4", "drawable": 4 },
+  { "texture": 0, "id": "glasses_5", "drawable": 5 },
+  { "texture": 0, "id": "glasses_6", "drawable": 6 },
+  { "texture": 0, "id": "glasses_7", "drawable": 7 },
+  { "texture": 0, "id": "glasses_8", "drawable": 8 },
+  { "texture": 0, "id": "glasses_9", "drawable": 9 },
+  { "texture": 0, "id": "glasses_10", "drawable": 10 },
+  { "texture": 0, "id": "glasses_11", "drawable": 11 },
+  { "texture": 0, "id": "glasses_12", "drawable": 12 },
+  { "texture": 0, "id": "glasses_13", "drawable": 13 },
+  { "texture": 0, "id": "glasses_14", "drawable": 14 },
+  { "texture": 0, "id": "glasses_15", "drawable": 15 },
+  {
+    "id": "glasses_16",
+    "drawable": 16,
+    "label": "DS Brown Bugs",
+    "texture": 0
+  },
+  {
+    "id": "glasses_17",
+    "drawable": 17,
+    "label": "Purple Tint Squared",
+    "texture": 0
+  },
+  {
+    "id": "glasses_18",
+    "drawable": 18,
+    "label": "Steel Slim Glasses",
+    "texture": 0
+  },
+  {
+    "id": "glasses_19",
+    "drawable": 19,
+    "label": "Black Plastic Frames",
+    "texture": 0
+  },
+  {
+    "id": "glasses_20",
+    "drawable": 20,
+    "label": "Black Retro Classics",
+    "texture": 0
+  },
+  {
+    "id": "glasses_21",
+    "drawable": 21,
+    "label": "Black Hipsters",
+    "texture": 0
+  },
+  {
+    "id": "glasses_22",
+    "drawable": 22,
+    "label": "Star Frame Shades",
+    "texture": 0
+  },
+  {
+    "id": "glasses_23",
+    "drawable": 23,
+    "label": "Star Spangled Shades",
+    "texture": 0
+  },
+  {
+    "id": "glasses_24",
+    "drawable": 24,
+    "label": "Black Casuals",
+    "texture": 0
+  },
+  { "texture": 0, "id": "glasses_25", "drawable": 25 },
+  {
+    "id": "glasses_26",
+    "drawable": 26,
+    "label": "Tan Outlaw Goggles",
+    "texture": 0
+  },
+  {
+    "id": "glasses_27",
+    "drawable": 27,
+    "label": "Tropical Urban Ski",
+    "texture": 0
+  },
+  { "texture": 0, "id": "glasses_28", "drawable": 28 },
+  { "texture": 0, "id": "glasses_29", "drawable": 29 },
+  {
+    "id": "glasses_30",
+    "drawable": 30,
+    "label": "Dot Fade Aviators",
+    "texture": 0
+  },
+  {
+    "id": "glasses_31",
+    "drawable": 31,
+    "label": "Black Deep Shades",
+    "texture": 0
+  },
+  {
+    "id": "glasses_32",
+    "drawable": 32,
+    "label": "Blue & Pink Glow Shades",
+    "texture": 0
+  },
+  {
+    "id": "glasses_33",
+    "drawable": 33,
+    "label": "Midnight Tint Oversize Shades",
+    "texture": 0
+  },
+  {
+    "id": "glasses_34",
+    "drawable": 34,
+    "label": "White Checked Round Shades",
+    "texture": 0
+  },
+  {
+    "id": "glasses_35",
+    "drawable": 35,
+    "label": "Brown Square Shades",
+    "texture": 0
+  },
+  { "id": "glasses_36", "drawable": 36, "label": "Black Round", "texture": 0 },
+  { "id": "glasses_37", "drawable": 37, "label": "Black Square", "texture": 0 },
+  {
+    "id": "glasses_38",
+    "drawable": 38,
+    "label": "Black Cat Eye",
+    "texture": 0
+  },
+  {
+    "id": "glasses_39",
+    "drawable": 39,
+    "label": "Black Rectangular",
+    "texture": 0
+  },
+  {
+    "id": "glasses_40",
+    "drawable": 40,
+    "label": "Black Ergonomic",
+    "texture": 0
+  },
+  {
+    "id": "glasses_41",
+    "drawable": 41,
+    "label": "Black Retro Round",
+    "texture": 0
+  },
+  { "texture": 0, "id": "glasses_42", "drawable": 42 },
+  {
+    "id": "glasses_43",
+    "drawable": 43,
+    "label": "Mono Tactical Goggles",
+    "texture": 0
+  },
+  {
+    "id": "glasses_44",
+    "drawable": 44,
+    "label": "Black Cat Eye Shades",
+    "texture": 0
+  },
+  {
+    "id": "glasses_45",
+    "drawable": 45,
+    "label": "Red Manor Round Brow Shades",
+    "texture": 0
+  },
+  {
+    "id": "glasses_46",
+    "drawable": 46,
+    "label": "Gold New Year Glasses",
+    "texture": 0
+  },
+  {
+    "id": "glasses_47",
+    "drawable": 47,
+    "label": "Black Bigness Wraps",
+    "texture": 0
+  },
+  {
+    "id": "glasses_48",
+    "drawable": 48,
+    "label": "Lime SC Coin Wraps",
+    "texture": 0
+  },
+  {
+    "id": "glasses_49",
+    "drawable": 49,
+    "label": "Zebra Bigness Shades",
+    "texture": 0
+  },
+  {
+    "id": "glasses_50",
+    "drawable": 50,
+    "label": "Black Feline Shades",
+    "texture": 0
+  },
+  { "texture": 0, "id": "glasses_51", "drawable": 51 },
+  { "texture": 0, "id": "glasses_52", "drawable": 52 },
+  {
+    "id": "glasses_53",
+    "drawable": 53,
+    "label": "Silver/Black Octagonal",
+    "texture": 0
+  },
+  {
+    "id": "glasses_54",
+    "drawable": 54,
+    "label": "Junk Energy Goggles",
+    "texture": 0
+  },
+  {
+    "id": "glasses_55",
+    "drawable": 55,
+    "label": "Pink Heart Shades",
+    "texture": 0
+  },
+  {
+    "id": "glasses_56",
+    "drawable": 56,
+    "label": "Black Retro Aviator Shades",
+    "texture": 0
+  },
+  { "texture": 0, "id": "glasses_57", "drawable": 57 },
+  {
+    "id": "glasses_58",
+    "drawable": 58,
+    "label": "Gold & Black Round",
+    "texture": 0
+  },
+  {
+    "id": "glasses_59",
+    "drawable": 59,
+    "label": "Black Shields",
+    "texture": 0
+  },
+  {
+    "id": "glasses_60",
+    "drawable": 60,
+    "label": "Black Sunrise Shields",
+    "texture": 0
+  }
+]

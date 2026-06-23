@@ -1,0 +1,276 @@
+[
+  { "texture": 0, "id": "watches_0", "drawable": 0 },
+  { "texture": 0, "id": "watches_1", "drawable": 1 },
+  { "texture": 0, "id": "watches_2", "drawable": 2 },
+  {
+    "id": "watches_3",
+    "drawable": 3,
+    "texture": 0,
+    "label": "Pendulus Sport Black Sports"
+  },
+  { "id": "watches_4", "drawable": 4, "texture": 0, "label": "Gold Watch" },
+  {
+    "id": "watches_5",
+    "drawable": 5,
+    "texture": 0,
+    "label": "Red LED, White Strap"
+  },
+  {
+    "id": "watches_6",
+    "drawable": 6,
+    "texture": 0,
+    "label": "Pink Gold Kronos Quantum"
+  },
+  {
+    "id": "watches_7",
+    "drawable": 7,
+    "texture": 0,
+    "label": "Platinum Gaulle Retro Hex"
+  },
+  {
+    "id": "watches_8",
+    "drawable": 8,
+    "texture": 0,
+    "label": "Gold Covgari Supernova"
+  },
+  {
+    "id": "watches_9",
+    "drawable": 9,
+    "texture": 0,
+    "label": "Platinum Pendulus Galaxis"
+  },
+  {
+    "id": "watches_10",
+    "drawable": 10,
+    "texture": 0,
+    "label": "Silver Crowex Chromosphere"
+  },
+  {
+    "id": "watches_11",
+    "drawable": 11,
+    "texture": 0,
+    "label": "Pink Gold Vangelico Geomeister"
+  },
+  {
+    "id": "watches_12",
+    "drawable": 12,
+    "texture": 0,
+    "label": "Gold iFruit Link"
+  },
+  {
+    "id": "watches_13",
+    "drawable": 13,
+    "texture": 0,
+    "label": "Carbon iFruit Tech"
+  },
+  {
+    "id": "watches_14",
+    "drawable": 14,
+    "texture": 0,
+    "label": "Silver Covgari Explorer"
+  },
+  {
+    "id": "watches_15",
+    "drawable": 15,
+    "texture": 0,
+    "label": "Silver Pendulus Gravity"
+  },
+  {
+    "id": "watches_16",
+    "drawable": 16,
+    "texture": 0,
+    "label": "Gold Covgari Universe"
+  },
+  {
+    "id": "watches_17",
+    "drawable": 17,
+    "texture": 0,
+    "label": "Copper Gaulle Destiny"
+  },
+  {
+    "id": "watches_18",
+    "drawable": 18,
+    "texture": 0,
+    "label": "Carbon Medici Radial"
+  },
+  {
+    "id": "watches_19",
+    "drawable": 19,
+    "texture": 0,
+    "label": "Silver Pendulus Timestar"
+  },
+  {
+    "id": "watches_20",
+    "drawable": 20,
+    "texture": 0,
+    "label": "Carbon Kronos Submariner"
+  },
+  {
+    "id": "watches_21",
+    "drawable": 21,
+    "texture": 0,
+    "label": "Red iFruit Snap"
+  },
+  {
+    "id": "watches_22",
+    "drawable": 22,
+    "texture": 0,
+    "label": "Light Wrist Chain (L)"
+  },
+  {
+    "id": "watches_23",
+    "drawable": 23,
+    "texture": 0,
+    "label": "Chunky Wrist Chain (L)"
+  },
+  {
+    "id": "watches_24",
+    "drawable": 24,
+    "texture": 0,
+    "label": "Square Wrist Chain (L)"
+  },
+  {
+    "id": "watches_25",
+    "drawable": 25,
+    "texture": 0,
+    "label": "Skull Wrist Chain (L)"
+  },
+  {
+    "id": "watches_26",
+    "drawable": 26,
+    "texture": 0,
+    "label": "Tread Wrist Chain (L)"
+  },
+  {
+    "id": "watches_27",
+    "drawable": 27,
+    "texture": 0,
+    "label": "Gear Wrist Chains (L)"
+  },
+  {
+    "id": "watches_28",
+    "drawable": 28,
+    "texture": 0,
+    "label": "Spiked Gauntlet (L)"
+  },
+  {
+    "id": "watches_29",
+    "drawable": 29,
+    "texture": 0,
+    "label": "Black Gauntlet (L)"
+  },
+  {
+    "id": "watches_30",
+    "drawable": 30,
+    "texture": 0,
+    "label": "Gold Enduring Watch"
+  },
+  {
+    "id": "watches_31",
+    "drawable": 31,
+    "texture": 0,
+    "label": "Gold Kronos Tempo"
+  },
+  {
+    "id": "watches_32",
+    "drawable": 32,
+    "texture": 0,
+    "label": "Gold Kronos Pulse"
+  },
+  {
+    "id": "watches_33",
+    "drawable": 33,
+    "texture": 0,
+    "label": "Gold Kronos Ära"
+  },
+  {
+    "id": "watches_34",
+    "drawable": 34,
+    "texture": 0,
+    "label": "Gold Ceaseless"
+  },
+  {
+    "id": "watches_35",
+    "drawable": 35,
+    "texture": 0,
+    "label": "Silver Crowex Époque"
+  },
+  {
+    "id": "watches_36",
+    "drawable": 36,
+    "texture": 0,
+    "label": "Gold Kronos Quad"
+  },
+  {
+    "id": "watches_37",
+    "drawable": 37,
+    "texture": 0,
+    "label": "Silver Crowex Rond"
+  },
+  {
+    "id": "watches_38",
+    "drawable": 38,
+    "texture": 0,
+    "label": "Silver SASS Wrist Piece"
+  },
+  {
+    "id": "watches_39",
+    "drawable": 39,
+    "texture": 0,
+    "label": "Silver SASS Bracelet"
+  },
+  {
+    "id": "watches_40",
+    "drawable": 40,
+    "texture": 0,
+    "label": "Blue Bangles (L)"
+  },
+  {
+    "id": "watches_41",
+    "drawable": 41,
+    "texture": 0,
+    "label": "Gold Encrusted Bracelet"
+  },
+  {
+    "id": "watches_42",
+    "drawable": 42,
+    "texture": 0,
+    "label": "Gold Ursine Bracelet"
+  },
+  {
+    "id": "watches_43",
+    "drawable": 43,
+    "texture": 0,
+    "label": "Gold Round Bracelet"
+  },
+  {
+    "id": "watches_44",
+    "drawable": 44,
+    "texture": 0,
+    "label": "Gold Square Jewel Chain"
+  },
+  {
+    "id": "watches_45",
+    "drawable": 45,
+    "texture": 0,
+    "label": "Silver Beaded Bracelet"
+  },
+  {
+    "id": "watches_46",
+    "drawable": 46,
+    "texture": 0,
+    "label": "Ox Blood Bracelet Ensemble"
+  },
+  {
+    "id": "watches_47",
+    "drawable": 47,
+    "texture": 0,
+    "label": "Thick Silver Chain Bracelet (L)"
+  },
+  {
+    "id": "watches_48",
+    "drawable": 48,
+    "texture": 0,
+    "label": "Silver Bangle Cuff Bracelet (L)"
+  }
+]

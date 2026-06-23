@@ -1,0 +1,215 @@
+[
+  { "texture": 0, "id": "watches_0", "drawable": 0 },
+  { "texture": 0, "id": "watches_1", "drawable": 1 },
+  { "id": "watches_2", "drawable": 2, "label": "Gold Fashion", "texture": 0 },
+  {
+    "id": "watches_3",
+    "drawable": 3,
+    "label": "Gold CaCa Di Lusso",
+    "texture": 0
+  },
+  {
+    "id": "watches_4",
+    "drawable": 4,
+    "label": "Silver Didier Sachs Mignon",
+    "texture": 0
+  },
+  {
+    "id": "watches_5",
+    "drawable": 5,
+    "label": "Gold iFruit Link",
+    "texture": 0
+  },
+  {
+    "id": "watches_6",
+    "drawable": 6,
+    "label": "White iFruit Tech",
+    "texture": 0
+  },
+  {
+    "id": "watches_7",
+    "drawable": 7,
+    "label": "Gold Le Chien Marquise",
+    "texture": 0
+  },
+  {
+    "id": "watches_8",
+    "drawable": 8,
+    "label": "Gray Fufu Jeunesse",
+    "texture": 0
+  },
+  {
+    "id": "watches_9",
+    "drawable": 9,
+    "label": "Silver Anna Rex Prestige",
+    "texture": 0
+  },
+  {
+    "id": "watches_10",
+    "drawable": 10,
+    "label": "Lime iFruit Snap",
+    "texture": 0
+  },
+  {
+    "id": "watches_11",
+    "drawable": 11,
+    "label": "Light Wrist Chain (L)",
+    "texture": 0
+  },
+  {
+    "id": "watches_12",
+    "drawable": 12,
+    "label": "Chunky Wrist Chain (L)",
+    "texture": 0
+  },
+  {
+    "id": "watches_13",
+    "drawable": 13,
+    "label": "Square Wrist Chain (L)",
+    "texture": 0
+  },
+  {
+    "id": "watches_14",
+    "drawable": 14,
+    "label": "Skull Wrist Chain (L)",
+    "texture": 0
+  },
+  {
+    "id": "watches_15",
+    "drawable": 15,
+    "label": "Tread Wrist Chain (L)",
+    "texture": 0
+  },
+  {
+    "id": "watches_16",
+    "drawable": 16,
+    "label": "Gear Wrist Chains (L)",
+    "texture": 0
+  },
+  {
+    "id": "watches_17",
+    "drawable": 17,
+    "label": "Spiked Gauntlet (L)",
+    "texture": 0
+  },
+  {
+    "id": "watches_18",
+    "drawable": 18,
+    "label": "Black Gauntlet (L)",
+    "texture": 0
+  },
+  {
+    "id": "watches_19",
+    "drawable": 19,
+    "label": "Gold Enduring Watch",
+    "texture": 0
+  },
+  {
+    "id": "watches_20",
+    "drawable": 20,
+    "label": "Gold Kronos Tempo",
+    "texture": 0
+  },
+  {
+    "id": "watches_21",
+    "drawable": 21,
+    "label": "Gold Kronos Pulse",
+    "texture": 0
+  },
+  {
+    "id": "watches_22",
+    "drawable": 22,
+    "label": "Gold Kronos Ära",
+    "texture": 0
+  },
+  {
+    "id": "watches_23",
+    "drawable": 23,
+    "label": "Gold Ceaseless",
+    "texture": 0
+  },
+  {
+    "id": "watches_24",
+    "drawable": 24,
+    "label": "Silver Crowex Époque",
+    "texture": 0
+  },
+  {
+    "id": "watches_25",
+    "drawable": 25,
+    "label": "Gold Kronos Quad",
+    "texture": 0
+  },
+  {
+    "id": "watches_26",
+    "drawable": 26,
+    "label": "Silver Crowex Rond",
+    "texture": 0
+  },
+  {
+    "id": "watches_27",
+    "drawable": 27,
+    "label": "Silver SASS Wrist Piece",
+    "texture": 0
+  },
+  {
+    "id": "watches_28",
+    "drawable": 28,
+    "label": "Silver SASS Bracelet",
+    "texture": 0
+  },
+  {
+    "id": "watches_29",
+    "drawable": 29,
+    "label": "Blue Bangles (L)",
+    "texture": 0
+  },
+  {
+    "id": "watches_30",
+    "drawable": 30,
+    "label": "Gold Encrusted Bracelet",
+    "texture": 0
+  },
+  {
+    "id": "watches_31",
+    "drawable": 31,
+    "label": "Gold Ursine Bracelet",
+    "texture": 0
+  },
+  {
+    "id": "watches_32",
+    "drawable": 32,
+    "label": "Gold Round Bracelet",
+    "texture": 0
+  },
+  {
+    "id": "watches_33",
+    "drawable": 33,
+    "label": "Gold Square Jewel Chain",
+    "texture": 0
+  },
+  {
+    "id": "watches_34",
+    "drawable": 34,
+    "label": "Silver Beaded Bracelet",
+    "texture": 0
+  },
+  {
+    "id": "watches_35",
+    "drawable": 35,
+    "label": "Ox Blood Bracelet Ensemble",
+    "texture": 0
+  },
+  {
+    "id": "watches_36",
+    "drawable": 36,
+    "label": "Thick Silver Chain Bracelet (L)",
+    "texture": 0
+  },
+  {
+    "id": "watches_37",
+    "drawable": 37,
+    "label": "Silver Bangle Cuff Bracelet (L)",
+    "texture": 0
+  }
+]

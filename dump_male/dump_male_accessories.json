@@ -1,0 +1,800 @@
+[
+  { "texture": 0, "id": "accessories_0", "drawable": 0 },
+  { "texture": 0, "id": "accessories_1", "drawable": 1 },
+  { "texture": 0, "id": "accessories_2", "drawable": 2 },
+  { "texture": 0, "id": "accessories_3", "drawable": 3 },
+  { "texture": 0, "id": "accessories_4", "drawable": 4 },
+  { "texture": 0, "id": "accessories_5", "drawable": 5 },
+  { "texture": 0, "id": "accessories_6", "drawable": 6 },
+  { "texture": 0, "id": "accessories_7", "drawable": 7 },
+  { "texture": 0, "id": "accessories_8", "drawable": 8 },
+  { "texture": 0, "id": "accessories_9", "drawable": 9 },
+  { "texture": 0, "id": "accessories_10", "drawable": 10 },
+  { "texture": 0, "id": "accessories_11", "drawable": 11 },
+  { "texture": 0, "id": "accessories_12", "drawable": 12 },
+  { "texture": 0, "id": "accessories_13", "drawable": 13 },
+  { "texture": 0, "id": "accessories_14", "drawable": 14 },
+  { "texture": 0, "id": "accessories_15", "drawable": 15 },
+  {
+    "id": "accessories_16",
+    "drawable": 16,
+    "texture": 0,
+    "label": "Covgari Silver Chain"
+  },
+  {
+    "id": "accessories_17",
+    "drawable": 17,
+    "texture": 0,
+    "label": "Covgari Silver Chain"
+  },
+  {
+    "id": "accessories_18",
+    "drawable": 18,
+    "texture": 0,
+    "label": "Christmas Tie"
+  },
+  {
+    "id": "accessories_19",
+    "drawable": 19,
+    "texture": 0,
+    "label": "Skinny Christmas Tie"
+  },
+  {
+    "id": "accessories_20",
+    "drawable": 20,
+    "texture": 0,
+    "label": "Red Vest Tie"
+  },
+  { "id": "accessories_21", "drawable": 21, "texture": 0, "label": "Blue Tie" },
+  {
+    "id": "accessories_22",
+    "drawable": 22,
+    "texture": 0,
+    "label": "White Bowtie"
+  },
+  {
+    "id": "accessories_23",
+    "drawable": 23,
+    "texture": 0,
+    "label": "Blue Skinny Tie"
+  },
+  {
+    "id": "accessories_24",
+    "drawable": 24,
+    "texture": 0,
+    "label": "White Tie"
+  },
+  {
+    "id": "accessories_25",
+    "drawable": 25,
+    "texture": 0,
+    "label": "White Skinny Tie"
+  },
+  {
+    "id": "accessories_26",
+    "drawable": 26,
+    "texture": 0,
+    "label": "White Tie"
+  },
+  {
+    "id": "accessories_27",
+    "drawable": 27,
+    "texture": 0,
+    "label": "White Skinny Tie"
+  },
+  {
+    "id": "accessories_28",
+    "drawable": 28,
+    "texture": 0,
+    "label": "White Tie"
+  },
+  {
+    "id": "accessories_29",
+    "drawable": 29,
+    "texture": 0,
+    "label": "White Skinny Tie"
+  },
+  {
+    "id": "accessories_30",
+    "drawable": 30,
+    "texture": 0,
+    "label": "White Scarf"
+  },
+  {
+    "id": "accessories_31",
+    "drawable": 31,
+    "texture": 0,
+    "label": "White Scarf"
+  },
+  {
+    "id": "accessories_32",
+    "drawable": 32,
+    "texture": 0,
+    "label": "USA Bow Tie"
+  },
+  { "texture": 0, "id": "accessories_33", "drawable": 33 },
+  {
+    "id": "accessories_34",
+    "drawable": 34,
+    "texture": 0,
+    "label": "Stripy Scarf"
+  },
+  {
+    "id": "accessories_35",
+    "drawable": 35,
+    "texture": 0,
+    "label": "Stripy Scarf"
+  },
+  {
+    "id": "accessories_36",
+    "drawable": 36,
+    "texture": 0,
+    "label": "Black Loose Bow Tie"
+  },
+  {
+    "id": "accessories_37",
+    "drawable": 37,
+    "texture": 0,
+    "label": "Charcoal Loose Tie"
+  },
+  {
+    "id": "accessories_38",
+    "drawable": 38,
+    "texture": 0,
+    "label": "Charcoal Straight Tie"
+  },
+  {
+    "id": "accessories_39",
+    "drawable": 39,
+    "texture": 0,
+    "label": "Charcoal Slack Tie"
+  },
+  { "texture": 0, "id": "accessories_40", "drawable": 40 },
+  { "texture": 0, "id": "accessories_41", "drawable": 41 },
+  {
+    "id": "accessories_42",
+    "drawable": 42,
+    "texture": 0,
+    "label": "Gold SN Necklace"
+  },
+  {
+    "id": "accessories_43",
+    "drawable": 43,
+    "texture": 0,
+    "label": "Gold Skull Necklace"
+  },
+  {
+    "id": "accessories_44",
+    "drawable": 44,
+    "texture": 0,
+    "label": "Platinum Balaclava Necklace"
+  },
+  {
+    "id": "accessories_45",
+    "drawable": 45,
+    "texture": 0,
+    "label": "Gold Zorse Necklace"
+  },
+  {
+    "id": "accessories_46",
+    "drawable": 46,
+    "texture": 0,
+    "label": "Gold LC Necklace"
+  },
+  {
+    "id": "accessories_47",
+    "drawable": 47,
+    "texture": 0,
+    "label": "Gold Dix Necklace"
+  },
+  {
+    "id": "accessories_48",
+    "drawable": 48,
+    "texture": 0,
+    "label": "Gold Le Chien Necklace"
+  },
+  {
+    "id": "accessories_49",
+    "drawable": 49,
+    "texture": 0,
+    "label": "Gold SN Necklace"
+  },
+  {
+    "id": "accessories_50",
+    "drawable": 50,
+    "texture": 0,
+    "label": "Gold Skull Necklace"
+  },
+  {
+    "id": "accessories_51",
+    "drawable": 51,
+    "texture": 0,
+    "label": "Platinum Balaclava Necklace"
+  },
+  {
+    "id": "accessories_52",
+    "drawable": 52,
+    "texture": 0,
+    "label": "Gold Zorse Necklace"
+  },
+  {
+    "id": "accessories_53",
+    "drawable": 53,
+    "texture": 0,
+    "label": "Gold LC Necklace"
+  },
+  {
+    "id": "accessories_54",
+    "drawable": 54,
+    "texture": 0,
+    "label": "Gold Dix Necklace"
+  },
+  {
+    "id": "accessories_55",
+    "drawable": 55,
+    "texture": 0,
+    "label": "Gold Le Chien Necklace"
+  },
+  { "texture": 0, "id": "accessories_56", "drawable": 56 },
+  { "texture": 0, "id": "accessories_57", "drawable": 57 },
+  { "texture": 0, "id": "accessories_58", "drawable": 58 },
+  { "texture": 0, "id": "accessories_59", "drawable": 59 },
+  { "texture": 0, "id": "accessories_60", "drawable": 60 },
+  { "texture": 0, "id": "accessories_61", "drawable": 61 },
+  { "texture": 0, "id": "accessories_62", "drawable": 62 },
+  { "texture": 0, "id": "accessories_63", "drawable": 63 },
+  { "texture": 0, "id": "accessories_64", "drawable": 64 },
+  { "texture": 0, "id": "accessories_65", "drawable": 65 },
+  { "texture": 0, "id": "accessories_66", "drawable": 66 },
+  { "texture": 0, "id": "accessories_67", "drawable": 67 },
+  { "texture": 0, "id": "accessories_68", "drawable": 68 },
+  { "texture": 0, "id": "accessories_69", "drawable": 69 },
+  { "texture": 0, "id": "accessories_70", "drawable": 70 },
+  { "texture": 0, "id": "accessories_71", "drawable": 71 },
+  { "texture": 0, "id": "accessories_72", "drawable": 72 },
+  { "texture": 0, "id": "accessories_73", "drawable": 73 },
+  {
+    "id": "accessories_74",
+    "drawable": 74,
+    "texture": 0,
+    "label": "Gold Loose Link Chain"
+  },
+  {
+    "id": "accessories_75",
+    "drawable": 75,
+    "texture": 0,
+    "label": "Gold Belcher Chain"
+  },
+  {
+    "id": "accessories_76",
+    "drawable": 76,
+    "texture": 0,
+    "label": "Gold Pretzel Chain"
+  },
+  {
+    "id": "accessories_77",
+    "drawable": 77,
+    "texture": 0,
+    "label": "Gold Curb Chain"
+  },
+  {
+    "id": "accessories_78",
+    "drawable": 78,
+    "texture": 0,
+    "label": "Gold Diamond Curb Chain"
+  },
+  {
+    "id": "accessories_79",
+    "drawable": 79,
+    "texture": 0,
+    "label": "Gold Heavy Curb Chain"
+  },
+  {
+    "id": "accessories_80",
+    "drawable": 80,
+    "texture": 0,
+    "label": "Gold Heavy Square Chain"
+  },
+  {
+    "id": "accessories_81",
+    "drawable": 81,
+    "texture": 0,
+    "label": "Gold Square Chain"
+  },
+  {
+    "id": "accessories_82",
+    "drawable": 82,
+    "texture": 0,
+    "label": "Gold Popcorn Chain"
+  },
+  {
+    "id": "accessories_83",
+    "drawable": 83,
+    "texture": 0,
+    "label": "Gold Rope Chain"
+  },
+  {
+    "id": "accessories_84",
+    "drawable": 84,
+    "texture": 0,
+    "label": "Blue Plaid Woolen Scarf"
+  },
+  {
+    "id": "accessories_85",
+    "drawable": 85,
+    "texture": 0,
+    "label": "Gold Loose Link Chain"
+  },
+  {
+    "id": "accessories_86",
+    "drawable": 86,
+    "texture": 0,
+    "label": "Gold Belcher Chain"
+  },
+  {
+    "id": "accessories_87",
+    "drawable": 87,
+    "texture": 0,
+    "label": "Gold Pretzel Chain"
+  },
+  {
+    "id": "accessories_88",
+    "drawable": 88,
+    "texture": 0,
+    "label": "Gold Curb Chain"
+  },
+  {
+    "id": "accessories_89",
+    "drawable": 89,
+    "texture": 0,
+    "label": "Gold Diamond Curb Chain"
+  },
+  {
+    "id": "accessories_90",
+    "drawable": 90,
+    "texture": 0,
+    "label": "Gold Heavy Curb Chain"
+  },
+  {
+    "id": "accessories_91",
+    "drawable": 91,
+    "texture": 0,
+    "label": "Gold Heavy Square Chain"
+  },
+  {
+    "id": "accessories_92",
+    "drawable": 92,
+    "texture": 0,
+    "label": "Gold Square Chain"
+  },
+  {
+    "id": "accessories_93",
+    "drawable": 93,
+    "texture": 0,
+    "label": "Gold Popcorn Chain"
+  },
+  {
+    "id": "accessories_94",
+    "drawable": 94,
+    "texture": 0,
+    "label": "Gold Rope Chain"
+  },
+  { "texture": 0, "id": "accessories_95", "drawable": 95 },
+  { "texture": 0, "id": "accessories_96", "drawable": 96 },
+  { "texture": 0, "id": "accessories_97", "drawable": 97 },
+  { "texture": 0, "id": "accessories_98", "drawable": 98 },
+  { "texture": 0, "id": "accessories_99", "drawable": 99 },
+  { "texture": 0, "id": "accessories_100", "drawable": 100 },
+  { "texture": 0, "id": "accessories_101", "drawable": 101 },
+  { "texture": 0, "id": "accessories_102", "drawable": 102 },
+  { "texture": 0, "id": "accessories_103", "drawable": 103 },
+  { "texture": 0, "id": "accessories_104", "drawable": 104 },
+  { "texture": 0, "id": "accessories_105", "drawable": 105 },
+  { "texture": 0, "id": "accessories_106", "drawable": 106 },
+  { "texture": 0, "id": "accessories_107", "drawable": 107 },
+  { "texture": 0, "id": "accessories_108", "drawable": 108 },
+  { "texture": 0, "id": "accessories_109", "drawable": 109 },
+  {
+    "id": "accessories_110",
+    "drawable": 110,
+    "texture": 0,
+    "label": "Gold Magnetics Necklace"
+  },
+  {
+    "id": "accessories_111",
+    "drawable": 111,
+    "texture": 0,
+    "label": "Gold Magnetics Necklace"
+  },
+  {
+    "id": "accessories_112",
+    "drawable": 112,
+    "texture": 0,
+    "label": "Tan Desert Scarf"
+  },
+  {
+    "id": "accessories_113",
+    "drawable": 113,
+    "texture": 0,
+    "label": "Black Bead Necklace"
+  },
+  { "texture": 0, "id": "accessories_114", "drawable": 114 },
+  { "texture": 0, "id": "accessories_115", "drawable": 115 },
+  { "texture": 0, "id": "accessories_116", "drawable": 116 },
+  { "texture": 0, "id": "accessories_117", "drawable": 117 },
+  {
+    "id": "accessories_118",
+    "drawable": 118,
+    "texture": 0,
+    "label": "Black Full Bowtie"
+  },
+  {
+    "id": "accessories_119",
+    "drawable": 119,
+    "texture": 0,
+    "label": "Gold Rim Necklace"
+  },
+  {
+    "id": "accessories_120",
+    "drawable": 120,
+    "texture": 0,
+    "label": "Gold Rim Necklace"
+  },
+  {
+    "id": "accessories_121",
+    "drawable": 121,
+    "texture": 0,
+    "label": "Gold Alloy Necklace"
+  },
+  {
+    "id": "accessories_122",
+    "drawable": 122,
+    "texture": 0,
+    "label": "Gold Alloy Necklace"
+  },
+  {
+    "id": "accessories_123",
+    "drawable": 123,
+    "texture": 0,
+    "label": "Gold Bead Necklace"
+  },
+  { "texture": 0, "id": "accessories_124", "drawable": 124 },
+  { "texture": 0, "id": "accessories_125", "drawable": 125 },
+  { "texture": 0, "id": "accessories_126", "drawable": 126 },
+  { "texture": 0, "id": "accessories_127", "drawable": 127 },
+  { "texture": 0, "id": "accessories_128", "drawable": 128 },
+  {
+    "id": "accessories_129",
+    "drawable": 129,
+    "texture": 0,
+    "label": "Epsilon Medallion"
+  },
+  {
+    "id": "accessories_130",
+    "drawable": 130,
+    "texture": 0,
+    "label": "Epsilon Medallion"
+  },
+  {
+    "id": "accessories_131",
+    "drawable": 131,
+    "texture": 0,
+    "label": "Epsilon Medallion"
+  },
+  {
+    "id": "accessories_132",
+    "drawable": 132,
+    "texture": 0,
+    "label": "Black Loose Bow Tie"
+  },
+  { "texture": 0, "id": "accessories_133", "drawable": 133 },
+  {
+    "id": "accessories_134",
+    "drawable": 134,
+    "texture": 0,
+    "label": "Dog With Cone Chain"
+  },
+  {
+    "id": "accessories_135",
+    "drawable": 135,
+    "texture": 0,
+    "label": "Dog With Cone Chain"
+  },
+  {
+    "id": "accessories_136",
+    "drawable": 136,
+    "texture": 0,
+    "label": "Gold LS Pendant"
+  },
+  {
+    "id": "accessories_137",
+    "drawable": 137,
+    "texture": 0,
+    "label": "Gold LS Pendant"
+  },
+  {
+    "id": "accessories_138",
+    "drawable": 138,
+    "texture": 0,
+    "label": "White Enamel LS Pendant"
+  },
+  {
+    "id": "accessories_139",
+    "drawable": 139,
+    "texture": 0,
+    "label": "White Enamel LS Pendant"
+  },
+  {
+    "id": "accessories_140",
+    "drawable": 140,
+    "texture": 0,
+    "label": "Gold Tags"
+  },
+  {
+    "id": "accessories_141",
+    "drawable": 141,
+    "texture": 0,
+    "label": "Gold Tags"
+  },
+  {
+    "id": "accessories_142",
+    "drawable": 142,
+    "texture": 0,
+    "label": "Gold L$ Pendant"
+  },
+  {
+    "id": "accessories_143",
+    "drawable": 143,
+    "texture": 0,
+    "label": "Gold L$ Pendant"
+  },
+  {
+    "id": "accessories_144",
+    "drawable": 144,
+    "texture": 0,
+    "label": "Gold Coin Pendant"
+  },
+  {
+    "id": "accessories_145",
+    "drawable": 145,
+    "texture": 0,
+    "label": "Gold Coin Pendant"
+  },
+  { "texture": 0, "id": "accessories_146", "drawable": 146 },
+  { "texture": 0, "id": "accessories_147", "drawable": 147 },
+  { "texture": 0, "id": "accessories_148", "drawable": 148 },
+  {
+    "id": "accessories_149",
+    "drawable": 149,
+    "texture": 0,
+    "label": "Blue Glow Necklace"
+  },
+  {
+    "id": "accessories_150",
+    "drawable": 150,
+    "texture": 0,
+    "label": "Blue Glow Necklace"
+  },
+  { "texture": 0, "id": "accessories_151", "drawable": 151 },
+  { "texture": 0, "id": "accessories_152", "drawable": 152 },
+  { "texture": 0, "id": "accessories_153", "drawable": 153 },
+  {
+    "id": "accessories_154",
+    "drawable": 154,
+    "texture": 0,
+    "label": "Le Chien Whistle Necklace"
+  },
+  {
+    "id": "accessories_155",
+    "drawable": 155,
+    "texture": 0,
+    "label": "Le Chien Whistle Necklace"
+  },
+  {
+    "id": "accessories_156",
+    "drawable": 156,
+    "texture": 0,
+    "label": "White Pearl Necklace"
+  },
+  {
+    "id": "accessories_157",
+    "drawable": 157,
+    "texture": 0,
+    "label": "White Pearl Necklace"
+  },
+  {
+    "id": "accessories_158",
+    "drawable": 158,
+    "texture": 0,
+    "label": "Heartbreak Pendant"
+  },
+  {
+    "id": "accessories_159",
+    "drawable": 159,
+    "texture": 0,
+    "label": "Heartbreak Pendant"
+  },
+  {
+    "id": "accessories_160",
+    "drawable": 160,
+    "texture": 0,
+    "label": "Silver Mesh Link"
+  },
+  {
+    "id": "accessories_161",
+    "drawable": 161,
+    "texture": 0,
+    "label": "Silver Mesh Link"
+  },
+  {
+    "id": "accessories_162",
+    "drawable": 162,
+    "texture": 0,
+    "label": "Silver Thick Curb Chain"
+  },
+  {
+    "id": "accessories_163",
+    "drawable": 163,
+    "texture": 0,
+    "label": "Silver Thick Curb Chain"
+  },
+  {
+    "id": "accessories_164",
+    "drawable": 164,
+    "texture": 0,
+    "label": "Silver Bar Pendant"
+  },
+  {
+    "id": "accessories_165",
+    "drawable": 165,
+    "texture": 0,
+    "label": "Silver Bar Pendant"
+  },
+  { "texture": 0, "id": "accessories_166", "drawable": 166 },
+  { "texture": 0, "id": "accessories_167", "drawable": 167 },
+  { "texture": 0, "id": "accessories_168", "drawable": 168 },
+  { "texture": 0, "id": "accessories_169", "drawable": 169 },
+  { "texture": 0, "id": "accessories_170", "drawable": 170 },
+  {
+    "id": "accessories_171",
+    "drawable": 171,
+    "texture": 0,
+    "label": "Silver Lock Pendant"
+  },
+  {
+    "id": "accessories_172",
+    "drawable": 172,
+    "texture": 0,
+    "label": "Silver Lock Pendant"
+  },
+  {
+    "id": "accessories_173",
+    "drawable": 173,
+    "texture": 0,
+    "label": "Cliffford Remote"
+  },
+  {
+    "id": "accessories_174",
+    "drawable": 174,
+    "texture": 0,
+    "label": "Cliffford Remote"
+  },
+  { "texture": 0, "id": "accessories_175", "drawable": 175 },
+  { "texture": 0, "id": "accessories_176", "drawable": 176 },
+  { "texture": 0, "id": "accessories_177", "drawable": 177 },
+  {
+    "id": "accessories_178",
+    "drawable": 178,
+    "texture": 0,
+    "label": "Silver Layered Necklace"
+  },
+  {
+    "id": "accessories_179",
+    "drawable": 179,
+    "texture": 0,
+    "label": "Silver Layered Necklace"
+  },
+  {
+    "id": "accessories_180",
+    "drawable": 180,
+    "texture": 0,
+    "label": "Silver DS Necklace"
+  },
+  {
+    "id": "accessories_181",
+    "drawable": 181,
+    "texture": 0,
+    "label": "Silver DS Necklace"
+  },
+  {
+    "id": "accessories_182",
+    "drawable": 182,
+    "texture": 0,
+    "label": "Silver Moon Necklace"
+  },
+  {
+    "id": "accessories_183",
+    "drawable": 183,
+    "texture": 0,
+    "label": "Silver Moon Necklace"
+  },
+  {
+    "id": "accessories_184",
+    "drawable": 184,
+    "texture": 0,
+    "label": "Marble Stone Necklace"
+  },
+  {
+    "id": "accessories_185",
+    "drawable": 185,
+    "texture": 0,
+    "label": "Marble Stone Necklace"
+  },
+  {
+    "id": "accessories_186",
+    "drawable": 186,
+    "texture": 0,
+    "label": "Thick Silver Necklace"
+  },
+  {
+    "id": "accessories_187",
+    "drawable": 187,
+    "texture": 0,
+    "label": "Thick Silver Necklace"
+  },
+  {
+    "id": "accessories_188",
+    "drawable": 188,
+    "texture": 0,
+    "label": "Silver Gun Necklace"
+  },
+  {
+    "id": "accessories_189",
+    "drawable": 189,
+    "texture": 0,
+    "label": "Silver Gun Necklace"
+  },
+  { "texture": 0, "id": "accessories_190", "drawable": 190 },
+  { "texture": 0, "id": "accessories_191", "drawable": 191 },
+  {
+    "id": "accessories_192",
+    "drawable": 192,
+    "texture": 0,
+    "label": "Gold 420 Pendant"
+  },
+  {
+    "id": "accessories_193",
+    "drawable": 193,
+    "texture": 0,
+    "label": "Gold 420 Pendant"
+  },
+  {
+    "id": "accessories_194",
+    "drawable": 194,
+    "texture": 0,
+    "label": "Gold Reindeer Pendant"
+  },
+  {
+    "id": "accessories_195",
+    "drawable": 195,
+    "texture": 0,
+    "label": "Gold Reindeer Pendant"
+  },
+  { "texture": 0, "id": "accessories_196", "drawable": 196 },
+  {
+    "id": "accessories_197",
+    "drawable": 197,
+    "texture": 0,
+    "label": "Snake Soul Pendant"
+  },
+  {
+    "id": "accessories_198",
+    "drawable": 198,
+    "texture": 0,
+    "label": "Snake Soul Pendant"
+  },
+  { "texture": 0, "id": "accessories_199", "drawable": 199 },
+  { "texture": 0, "id": "accessories_200", "drawable": 200 },
+  { "texture": 0, "id": "accessories_201", "drawable": 201 },
+  { "texture": 0, "id": "accessories_202", "drawable": 202 }
+]

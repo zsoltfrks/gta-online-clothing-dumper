@@ -1,0 +1,15 @@
+{
+  "name": "gta-clothing-name-distiller",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "GPL-3.0-or-later",
+  "engines": {
+    "node": ">=18"
+  },
+  "bin": {
+    "gta-clothing-names": "build-clothing-names.mjs"
+  },
+  "scripts": {
+    "dump": "node build-clothing-names.mjs"
+  }
+}

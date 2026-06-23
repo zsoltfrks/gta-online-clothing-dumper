@@ -1,0 +1,140 @@
+[
+  {
+    "id": "bracelets_0",
+    "drawable": 0,
+    "label": "Gold Snake Cuff",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_1",
+    "drawable": 1,
+    "label": "Gold Diamond Cuff",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_2",
+    "drawable": 2,
+    "label": "Gold Plain Cuff",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_3",
+    "drawable": 3,
+    "label": "Gold Le Chien Cuff",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_4",
+    "drawable": 4,
+    "label": "Gold Detail Cuff",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_5",
+    "drawable": 5,
+    "label": "Gold Swirl Cuff",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_6",
+    "drawable": 6,
+    "label": "Gold Textured Cuff",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_7",
+    "drawable": 7,
+    "label": "Light Wrist Chain (R)",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_8",
+    "drawable": 8,
+    "label": "Chunky Wrist Chain (R)",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_9",
+    "drawable": 9,
+    "label": "Square Wrist Chain (R)",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_10",
+    "drawable": 10,
+    "label": "Skull Wrist Chain (R)",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_11",
+    "drawable": 11,
+    "label": "Tread Wrist Chain (R)",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_12",
+    "drawable": 12,
+    "label": "Gear Wrist Chains (R)",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_13",
+    "drawable": 13,
+    "label": "Spiked Gauntlet (R)",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_14",
+    "drawable": 14,
+    "label": "Black Gauntlet (R)",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_15",
+    "drawable": 15,
+    "label": "Blue Bangles (R)",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_16",
+    "drawable": 16,
+    "label": "Gold Meander Bracelet",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_17",
+    "drawable": 17,
+    "label": "Silver Chunky Bracelet",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_18",
+    "drawable": 18,
+    "label": "Silver Chain Bracelet",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_19",
+    "drawable": 19,
+    "label": "Black Woven Bracelet",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_20",
+    "drawable": 20,
+    "label": "Aqua Hippy Bracelet",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_21",
+    "drawable": 21,
+    "label": "Thick Silver Chain Bracelet (R)",
+    "texture": 0
+  },
+  {
+    "id": "bracelets_22",
+    "drawable": 22,
+    "label": "Silver Bangle Cuff Bracelet (R)",
+    "texture": 0
+  }
+]

@@ -1,0 +1,75 @@
+[
+  { "id": "ears_0", "drawable": 0, "label": "Gray Earpiece", "texture": 0 },
+  { "id": "ears_1", "drawable": 1, "label": "Red Earpiece", "texture": 0 },
+  { "id": "ears_2", "drawable": 2, "label": "LCD Earpiece", "texture": 0 },
+  {
+    "id": "ears_3",
+    "drawable": 3,
+    "label": "Platinum Pendulums",
+    "texture": 0
+  },
+  { "id": "ears_4", "drawable": 4, "label": "Gold Pendulums", "texture": 0 },
+  {
+    "id": "ears_5",
+    "drawable": 5,
+    "label": "Gold Diamond Rounds",
+    "texture": 0
+  },
+  {
+    "id": "ears_6",
+    "drawable": 6,
+    "label": "Gold Diamond Drops",
+    "texture": 0
+  },
+  { "id": "ears_7", "drawable": 7, "label": "Gold Waterfalls", "texture": 0 },
+  { "id": "ears_8", "drawable": 8, "label": "Gold Totems", "texture": 0 },
+  {
+    "id": "ears_9",
+    "drawable": 9,
+    "label": "Gold Diamond Chains",
+    "texture": 0
+  },
+  {
+    "id": "ears_10",
+    "drawable": 10,
+    "label": "Gold Emerald Chains",
+    "texture": 0
+  },
+  { "id": "ears_11", "drawable": 11, "label": "Gold Sun Drops", "texture": 0 },
+  {
+    "id": "ears_12",
+    "drawable": 12,
+    "label": "Platinum Diamond Studs",
+    "texture": 0
+  },
+  { "id": "ears_13", "drawable": 13, "label": "Assault Hoops", "texture": 0 },
+  { "id": "ears_14", "drawable": 14, "label": "Chunky Hoops", "texture": 0 },
+  { "id": "ears_15", "drawable": 15, "label": "Classic Hoops", "texture": 0 },
+  { "id": "ears_16", "drawable": 16, "label": "FU Hoops", "texture": 0 },
+  { "id": "ears_17", "drawable": 17, "label": "Screw You Hoops", "texture": 0 },
+  {
+    "id": "ears_18",
+    "drawable": 18,
+    "label": "Gold Fame or Shame Mics",
+    "texture": 0
+  },
+  { "id": "ears_19", "drawable": 19, "label": "Clubs Earrings", "texture": 0 },
+  {
+    "id": "ears_20",
+    "drawable": 20,
+    "label": "White Dice Earrings",
+    "texture": 0
+  },
+  {
+    "id": "ears_21",
+    "drawable": 21,
+    "label": "Black Chips Earrings",
+    "texture": 0
+  },
+  {
+    "id": "ears_22",
+    "drawable": 22,
+    "label": "White Beat Off Earphones",
+    "texture": 0
+  }
+]

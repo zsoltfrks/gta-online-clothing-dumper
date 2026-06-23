@@ -1,0 +1,637 @@
+[
+  { "texture": 0, "id": "shoes_0", "drawable": 0 },
+  { "texture": 0, "id": "shoes_1", "drawable": 1 },
+  { "texture": 0, "id": "shoes_2", "drawable": 2 },
+  { "texture": 0, "id": "shoes_3", "drawable": 3 },
+  { "texture": 0, "id": "shoes_4", "drawable": 4 },
+  { "texture": 0, "id": "shoes_5", "drawable": 5 },
+  { "texture": 0, "id": "shoes_6", "drawable": 6 },
+  { "texture": 0, "id": "shoes_7", "drawable": 7 },
+  { "texture": 0, "id": "shoes_8", "drawable": 8 },
+  { "texture": 0, "id": "shoes_9", "drawable": 9 },
+  { "texture": 0, "id": "shoes_10", "drawable": 10 },
+  { "texture": 0, "id": "shoes_11", "drawable": 11 },
+  { "texture": 0, "id": "shoes_12", "drawable": 12 },
+  { "texture": 0, "id": "shoes_13", "drawable": 13 },
+  { "texture": 0, "id": "shoes_14", "drawable": 14 },
+  { "texture": 0, "id": "shoes_15", "drawable": 15 },
+  {
+    "id": "shoes_16",
+    "drawable": 16,
+    "label": "Charcoal Flip-Flops",
+    "texture": 0
+  },
+  { "id": "shoes_17", "drawable": 17, "label": "Elf Shoes", "texture": 0 },
+  { "texture": 0, "id": "shoes_18", "drawable": 18 },
+  {
+    "id": "shoes_19",
+    "drawable": 19,
+    "label": "Olive Platforms",
+    "texture": 0
+  },
+  {
+    "id": "shoes_20",
+    "drawable": 20,
+    "label": "Yellow Leopard Patent Heels",
+    "texture": 0
+  },
+  {
+    "id": "shoes_21",
+    "drawable": 21,
+    "label": "Ochre Knee High",
+    "texture": 0
+  },
+  {
+    "id": "shoes_22",
+    "drawable": 22,
+    "label": "Beige Folded Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_23",
+    "drawable": 23,
+    "label": "Blue Sparkly Shoes",
+    "texture": 0
+  },
+  {
+    "id": "shoes_24",
+    "drawable": 24,
+    "label": "Black Flight Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_25",
+    "drawable": 25,
+    "label": "Black Tactical Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_26",
+    "drawable": 26,
+    "label": "Black Scruffy Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_27",
+    "drawable": 27,
+    "label": "All Black Backside",
+    "texture": 0
+  },
+  {
+    "id": "shoes_28",
+    "drawable": 28,
+    "label": "All Black Sports",
+    "texture": 0
+  },
+  {
+    "id": "shoes_29",
+    "drawable": 29,
+    "label": "All Black Oxfords",
+    "texture": 0
+  },
+  {
+    "id": "shoes_30",
+    "drawable": 30,
+    "label": "Leather Studded Boots",
+    "texture": 0
+  },
+  { "id": "shoes_31", "drawable": 31, "label": "Golden Hi Tops", "texture": 0 },
+  {
+    "id": "shoes_32",
+    "drawable": 32,
+    "label": "Calypso Runners",
+    "texture": 0
+  },
+  {
+    "id": "shoes_33",
+    "drawable": 33,
+    "label": "Yellow Canvas Snugs",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_34", "drawable": 34 },
+  { "id": "shoes_35", "drawable": 35, "label": "No Shoes", "texture": 0 },
+  {
+    "id": "shoes_36",
+    "drawable": 36,
+    "label": "Tan Walking Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_37",
+    "drawable": 37,
+    "label": "Sienna Leather Loafers",
+    "texture": 0
+  },
+  {
+    "id": "shoes_38",
+    "drawable": 38,
+    "label": "All Black Cowboy Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_39",
+    "drawable": 39,
+    "label": "All Black Cowboy Boots",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_40", "drawable": 40 },
+  { "texture": 0, "id": "shoes_41", "drawable": 41 },
+  {
+    "id": "shoes_42",
+    "drawable": 42,
+    "label": "Nude Rounded Heels",
+    "texture": 0
+  },
+  {
+    "id": "shoes_43",
+    "drawable": 43,
+    "label": "Yellow Sneaker Wedges",
+    "texture": 0
+  },
+  {
+    "id": "shoes_44",
+    "drawable": 44,
+    "label": "Yellow Sneaker Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_45",
+    "drawable": 45,
+    "label": "Blue Cowboy Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_46",
+    "drawable": 46,
+    "label": "Blue Cowboy Boots",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_47", "drawable": 47 },
+  { "texture": 0, "id": "shoes_48", "drawable": 48 },
+  { "texture": 0, "id": "shoes_49", "drawable": 49 },
+  { "texture": 0, "id": "shoes_50", "drawable": 50 },
+  {
+    "id": "shoes_51",
+    "drawable": 51,
+    "label": "Black Laceup Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_52",
+    "drawable": 52,
+    "label": "Black Laceup Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_53",
+    "drawable": 53,
+    "label": "Tan Harness Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_54",
+    "drawable": 54,
+    "label": "Black Slack Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_55",
+    "drawable": 55,
+    "label": "Black Slack Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_56",
+    "drawable": 56,
+    "label": "Black Calf Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_57",
+    "drawable": 57,
+    "label": "Black Calf Boots",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_58", "drawable": 58 },
+  {
+    "id": "shoes_59",
+    "drawable": 59,
+    "label": "Tan Harness Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_60",
+    "drawable": 60,
+    "label": "Peach Plain Hi Tops",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_61", "drawable": 61 },
+  {
+    "id": "shoes_62",
+    "drawable": 62,
+    "label": "Blue Digital Cross Trainers",
+    "texture": 0
+  },
+  {
+    "id": "shoes_63",
+    "drawable": 63,
+    "label": "Black Tech Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_64",
+    "drawable": 64,
+    "label": "Black Tech Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_65",
+    "drawable": 65,
+    "label": "Desert Tactical Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_66",
+    "drawable": 66,
+    "label": "Desert Tactical Boots",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_67", "drawable": 67 },
+  {
+    "id": "shoes_68",
+    "drawable": 68,
+    "label": "Classic Moc Toe Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_69",
+    "drawable": 69,
+    "label": "Classic Moc Toe Boots",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_70", "drawable": 70 },
+  { "texture": 0, "id": "shoes_71", "drawable": 71 },
+  { "texture": 0, "id": "shoes_72", "drawable": 72 },
+  {
+    "id": "shoes_73",
+    "drawable": 73,
+    "label": "Earth Tones Rubberized",
+    "texture": 0
+  },
+  {
+    "id": "shoes_74",
+    "drawable": 74,
+    "label": "Earth Tones Rubberized",
+    "texture": 0
+  },
+  { "id": "shoes_75", "drawable": 75, "label": "Mono Trail", "texture": 0 },
+  { "id": "shoes_76", "drawable": 76, "label": "Mono Trail", "texture": 0 },
+  {
+    "id": "shoes_77",
+    "drawable": 77,
+    "label": "Black Catsuit Heels",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_78", "drawable": 78 },
+  {
+    "id": "shoes_79",
+    "drawable": 79,
+    "label": "Purple Flash Retro Runners",
+    "texture": 0
+  },
+  {
+    "id": "shoes_80",
+    "drawable": 80,
+    "label": "Purple Flash Retro Runners",
+    "texture": 0
+  },
+  {
+    "id": "shoes_81",
+    "drawable": 81,
+    "label": "White & Blue Light Ups",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_82", "drawable": 82 },
+  {
+    "id": "shoes_83",
+    "drawable": 83,
+    "label": "Flaming Skull Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_84",
+    "drawable": 84,
+    "label": "Flaming Skull Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_85",
+    "drawable": 85,
+    "label": "Black Skull Harness Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_86",
+    "drawable": 86,
+    "label": "Black Skull Harness Boots",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_87", "drawable": 87 },
+  {
+    "id": "shoes_88",
+    "drawable": 88,
+    "label": "Brown Raider Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_89",
+    "drawable": 89,
+    "label": "Brown Plated Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_90",
+    "drawable": 90,
+    "label": "Brown Plated Boots",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_91", "drawable": 91 },
+  { "texture": 0, "id": "shoes_92", "drawable": 92 },
+  { "texture": 0, "id": "shoes_93", "drawable": 93 },
+  { "texture": 0, "id": "shoes_94", "drawable": 94 },
+  { "texture": 0, "id": "shoes_95", "drawable": 95 },
+  {
+    "id": "shoes_96",
+    "drawable": 96,
+    "label": "Blue Retro Sneakers",
+    "texture": 0
+  },
+  {
+    "id": "shoes_97",
+    "drawable": 97,
+    "label": "Blue Retro Sneakers",
+    "texture": 0
+  },
+  {
+    "id": "shoes_98",
+    "drawable": 98,
+    "label": "Green FB Slipper Loafers",
+    "texture": 0
+  },
+  {
+    "id": "shoes_99",
+    "drawable": 99,
+    "label": "Dog With Cone Slip-Ons",
+    "texture": 0
+  },
+  {
+    "id": "shoes_100",
+    "drawable": 100,
+    "label": "Heavy Uniform Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_101",
+    "drawable": 101,
+    "label": "Heavy Uniform Boots",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_102", "drawable": 102 },
+  {
+    "id": "shoes_103",
+    "drawable": 103,
+    "label": "Ice Knit Sneakers",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_104", "drawable": 104 },
+  { "texture": 0, "id": "shoes_105", "drawable": 105 },
+  {
+    "id": "shoes_106",
+    "drawable": 106,
+    "label": "Black Road Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_107",
+    "drawable": 107,
+    "label": "Black Road Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_108",
+    "drawable": 108,
+    "label": "Walnut Smart Oxfords",
+    "texture": 0
+  },
+  {
+    "id": "shoes_109",
+    "drawable": 109,
+    "label": "Blue Clover Flip-Flops",
+    "texture": 0
+  },
+  {
+    "id": "shoes_110",
+    "drawable": 110,
+    "label": "Black Buckled Loafers",
+    "texture": 0
+  },
+  {
+    "id": "shoes_111",
+    "drawable": 111,
+    "label": "Wild Striped Pool Sliders",
+    "texture": 0
+  },
+  {
+    "id": "shoes_112",
+    "drawable": 112,
+    "label": "Black Bigness Pool Sliders",
+    "texture": 0
+  },
+  {
+    "id": "shoes_113",
+    "drawable": 113,
+    "label": "Walnut Smart Oxfords Ankle",
+    "texture": 0
+  },
+  {
+    "id": "shoes_114",
+    "drawable": 114,
+    "label": "Black Loggers",
+    "texture": 0
+  },
+  {
+    "id": "shoes_115",
+    "drawable": 115,
+    "label": "Black Loggers",
+    "texture": 0
+  },
+  {
+    "id": "shoes_116",
+    "drawable": 116,
+    "label": "Black Ugglies & Socks",
+    "texture": 0
+  },
+  {
+    "id": "shoes_117",
+    "drawable": 117,
+    "label": "Black Ugglies",
+    "texture": 0
+  },
+  {
+    "id": "shoes_118",
+    "drawable": 118,
+    "label": "Black Low Canvas",
+    "texture": 0
+  },
+  {
+    "id": "shoes_119",
+    "drawable": 119,
+    "label": "Zebra Bigness Canvas",
+    "texture": 0
+  },
+  {
+    "id": "shoes_120",
+    "drawable": 120,
+    "label": "Green Sloped Slab Canvas",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_121", "drawable": 121 },
+  { "texture": 0, "id": "shoes_122", "drawable": 122 },
+  {
+    "id": "shoes_123",
+    "drawable": 123,
+    "label": "Black Enema Ugglies & Socks",
+    "texture": 0
+  },
+  {
+    "id": "shoes_124",
+    "drawable": 124,
+    "label": "Blue SC Baroque Ugglies & Socks",
+    "texture": 0
+  },
+  {
+    "id": "shoes_125",
+    "drawable": 125,
+    "label": "Black Enema Flourish Ugglies",
+    "texture": 0
+  },
+  {
+    "id": "shoes_126",
+    "drawable": 126,
+    "label": "Blue SC Baroque Ugglies",
+    "texture": 0
+  },
+  {
+    "id": "shoes_127",
+    "drawable": 127,
+    "label": "Black Blagueurs Ugglies & Socks",
+    "texture": 0
+  },
+  {
+    "id": "shoes_128",
+    "drawable": 128,
+    "label": "Black Blagueurs Ugglies",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_129", "drawable": 129 },
+  {
+    "id": "shoes_130",
+    "drawable": 130,
+    "label": "Black Designer Lace-Up",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_131", "drawable": 131 },
+  { "texture": 0, "id": "shoes_132", "drawable": 132 },
+  { "texture": 0, "id": "shoes_133", "drawable": 133 },
+  { "texture": 0, "id": "shoes_134", "drawable": 134 },
+  { "texture": 0, "id": "shoes_135", "drawable": 135 },
+  { "texture": 0, "id": "shoes_136", "drawable": 136 },
+  { "texture": 0, "id": "shoes_137", "drawable": 137 },
+  { "texture": 0, "id": "shoes_138", "drawable": 138 },
+  { "texture": 0, "id": "shoes_139", "drawable": 139 },
+  { "texture": 0, "id": "shoes_140", "drawable": 140 },
+  { "texture": 0, "id": "shoes_141", "drawable": 141 },
+  { "texture": 0, "id": "shoes_142", "drawable": 142 },
+  { "texture": 0, "id": "shoes_143", "drawable": 143 },
+  {
+    "id": "shoes_144",
+    "drawable": 144,
+    "label": "Black Cloth Clogs",
+    "texture": 0
+  },
+  {
+    "id": "shoes_145",
+    "drawable": 145,
+    "label": "Mono Winter Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_146",
+    "drawable": 146,
+    "label": "Mono Winter Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_147",
+    "drawable": 147,
+    "label": "Vespucci Beach Flip-Flops",
+    "texture": 0
+  },
+  {
+    "id": "shoes_148",
+    "drawable": 148,
+    "label": "Black Riding Boots",
+    "texture": 0
+  },
+  {
+    "id": "shoes_149",
+    "drawable": 149,
+    "label": "Black Riding Boots",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_150", "drawable": 150 },
+  { "texture": 0, "id": "shoes_151", "drawable": 151 },
+  { "texture": 0, "id": "shoes_152", "drawable": 152 },
+  { "texture": 0, "id": "shoes_153", "drawable": 153 },
+  {
+    "id": "shoes_154",
+    "drawable": 154,
+    "label": "Blue & Green Zebra Sneakers",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_155", "drawable": 155 },
+  { "texture": 0, "id": "shoes_156", "drawable": 156 },
+  {
+    "id": "shoes_157",
+    "drawable": 157,
+    "label": "Black Hi Top 69 Sneakers",
+    "texture": 0
+  },
+  {
+    "id": "shoes_158",
+    "drawable": 158,
+    "label": "Cyan Güffy Hi Top Sneakers",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_159", "drawable": 159 },
+  { "texture": 0, "id": "shoes_160", "drawable": 160 },
+  { "texture": 0, "id": "shoes_161", "drawable": 161 },
+  { "texture": 0, "id": "shoes_162", "drawable": 162 },
+  { "texture": 0, "id": "shoes_163", "drawable": 163 },
+  { "texture": 0, "id": "shoes_164", "drawable": 164 },
+  { "texture": 0, "id": "shoes_165", "drawable": 165 },
+  {
+    "id": "shoes_166",
+    "drawable": 166,
+    "label": "Cyan Güffy Hi Top Sneakers",
+    "texture": 0
+  },
+  {
+    "id": "shoes_167",
+    "drawable": 167,
+    "label": "Black Hi Top 69 Sneakers",
+    "texture": 0
+  },
+  { "texture": 0, "id": "shoes_168", "drawable": 168 },
+  { "texture": 0, "id": "shoes_169", "drawable": 169 }
+]

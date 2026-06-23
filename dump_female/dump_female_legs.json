@@ -1,0 +1,730 @@
+[
+  { "texture": 0, "id": "legs_0", "drawable": 0 },
+  { "texture": 0, "id": "legs_1", "drawable": 1 },
+  { "texture": 0, "id": "legs_2", "drawable": 2 },
+  { "texture": 0, "id": "legs_3", "drawable": 3 },
+  { "texture": 0, "id": "legs_4", "drawable": 4 },
+  { "texture": 0, "id": "legs_5", "drawable": 5 },
+  { "texture": 0, "id": "legs_6", "drawable": 6 },
+  { "texture": 0, "id": "legs_7", "drawable": 7 },
+  { "texture": 0, "id": "legs_8", "drawable": 8 },
+  { "texture": 0, "id": "legs_9", "drawable": 9 },
+  { "texture": 0, "id": "legs_10", "drawable": 10 },
+  { "texture": 0, "id": "legs_11", "drawable": 11 },
+  { "texture": 0, "id": "legs_12", "drawable": 12 },
+  { "texture": 0, "id": "legs_13", "drawable": 13 },
+  { "texture": 0, "id": "legs_14", "drawable": 14 },
+  { "texture": 0, "id": "legs_15", "drawable": 15 },
+  { "id": "legs_16", "drawable": 16, "label": "Yellow Shorts", "texture": 0 },
+  { "id": "legs_17", "drawable": 17, "label": "White Bikini", "texture": 0 },
+  { "id": "legs_18", "drawable": 18, "label": "Santa Skirt", "texture": 0 },
+  {
+    "id": "legs_19",
+    "drawable": 19,
+    "label": "White Lace Panties",
+    "texture": 0
+  },
+  { "id": "legs_20", "drawable": 20, "label": "White Stockings", "texture": 0 },
+  { "texture": 0, "id": "legs_21", "drawable": 21 },
+  { "texture": 0, "id": "legs_22", "drawable": 22 },
+  { "id": "legs_23", "drawable": 23, "label": "White Suit", "texture": 0 },
+  { "id": "legs_24", "drawable": 24, "label": "Vibrant Pencil", "texture": 0 },
+  {
+    "id": "legs_25",
+    "drawable": 25,
+    "label": "Navy Distressed Denim Shorts",
+    "texture": 0
+  },
+  {
+    "id": "legs_26",
+    "drawable": 26,
+    "label": "Leopard Print Mini",
+    "texture": 0
+  },
+  { "id": "legs_27", "drawable": 27, "label": "Black Leggings", "texture": 0 },
+  {
+    "id": "legs_28",
+    "drawable": 28,
+    "label": "Independence Skirt",
+    "texture": 0
+  },
+  {
+    "id": "legs_29",
+    "drawable": 29,
+    "label": "Green Flight Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_30",
+    "drawable": 30,
+    "label": "Black Combat Pants",
+    "texture": 0
+  },
+  { "id": "legs_31", "drawable": 31, "label": "Red Leggings", "texture": 0 },
+  {
+    "id": "legs_32",
+    "drawable": 32,
+    "label": "Black Heist Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_33",
+    "drawable": 33,
+    "label": "Black Battle Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_34", "drawable": 34 },
+  { "texture": 0, "id": "legs_35", "drawable": 35 },
+  {
+    "id": "legs_36",
+    "drawable": 36,
+    "label": "Gray Pencil Skirt",
+    "texture": 0
+  },
+  {
+    "id": "legs_37",
+    "drawable": 37,
+    "label": "Black Regular Suit Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_38", "drawable": 38 },
+  { "texture": 0, "id": "legs_39", "drawable": 39 },
+  { "texture": 0, "id": "legs_40", "drawable": 40 },
+  {
+    "id": "legs_41",
+    "drawable": 41,
+    "label": "Gray Scruffy Suit Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_42",
+    "drawable": 42,
+    "label": "Black Flight Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_43",
+    "drawable": 43,
+    "label": "Black Leather Zippers",
+    "texture": 0
+  },
+  {
+    "id": "legs_44",
+    "drawable": 44,
+    "label": "Black Skinny Cuts",
+    "texture": 0
+  },
+  {
+    "id": "legs_45",
+    "drawable": 45,
+    "label": "Khaki Baggy Cargo",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_46", "drawable": 46 },
+  { "texture": 0, "id": "legs_47", "drawable": 47 },
+  {
+    "id": "legs_48",
+    "drawable": 48,
+    "label": "Tan Battle Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_49",
+    "drawable": 49,
+    "label": "Tan Utility Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_50",
+    "drawable": 50,
+    "label": "White Continental Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_51",
+    "drawable": 51,
+    "label": "White Continental Slim Pants",
+    "texture": 0
+  },
+  { "id": "legs_52", "drawable": 52, "label": "Red Shiny Pants", "texture": 0 },
+  {
+    "id": "legs_53",
+    "drawable": 53,
+    "label": "Gold Print Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_54",
+    "drawable": 54,
+    "label": "Red Fitted Shiny Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_55",
+    "drawable": 55,
+    "label": "Gold Print Fitted Pants",
+    "texture": 0
+  },
+  { "id": "legs_56", "drawable": 56, "label": "Dix Bikini", "texture": 0 },
+  { "texture": 0, "id": "legs_57", "drawable": 57 },
+  {
+    "id": "legs_58",
+    "drawable": 58,
+    "label": "Black Tracksuit Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_59", "drawable": 59 },
+  { "texture": 0, "id": "legs_60", "drawable": 60 },
+  { "texture": 0, "id": "legs_61", "drawable": 61 },
+  {
+    "id": "legs_62",
+    "drawable": 62,
+    "label": "Nude Silk Lace Panties",
+    "texture": 0
+  },
+  { "id": "legs_63", "drawable": 63, "label": "Nude Stockings", "texture": 0 },
+  {
+    "id": "legs_64",
+    "drawable": 64,
+    "label": "Cream Fitted Chinos",
+    "texture": 0
+  },
+  {
+    "id": "legs_65",
+    "drawable": 65,
+    "label": "Black High Waisted",
+    "texture": 0
+  },
+  {
+    "id": "legs_66",
+    "drawable": 66,
+    "label": "Blue Tracksuit Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_67", "drawable": 67 },
+  { "texture": 0, "id": "legs_68", "drawable": 68 },
+  { "texture": 0, "id": "legs_69", "drawable": 69 },
+  { "texture": 0, "id": "legs_70", "drawable": 70 },
+  {
+    "id": "legs_71",
+    "drawable": 71,
+    "label": "Skull Muscle Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_72", "drawable": 72 },
+  {
+    "id": "legs_73",
+    "drawable": 73,
+    "label": "Dirty Wash Ribbed",
+    "texture": 0
+  },
+  {
+    "id": "legs_74",
+    "drawable": 74,
+    "label": "Dirty Wash Roadworn",
+    "texture": 0
+  },
+  { "id": "legs_75", "drawable": 75, "label": "Black Plain", "texture": 0 },
+  { "id": "legs_76", "drawable": 76, "label": "Black Quilted", "texture": 0 },
+  { "id": "legs_77", "drawable": 77, "label": "Black Ribbed", "texture": 0 },
+  {
+    "id": "legs_78",
+    "drawable": 78,
+    "label": "Indigo Denims and Stockings",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_79", "drawable": 79 },
+  {
+    "id": "legs_80",
+    "drawable": 80,
+    "label": "Chocolate Low Crotch Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_81",
+    "drawable": 81,
+    "label": "Black Leather Low Crotch Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_82",
+    "drawable": 82,
+    "label": "Chocolate Low Crotch Shorts",
+    "texture": 0
+  },
+  {
+    "id": "legs_83",
+    "drawable": 83,
+    "label": "Black Leather Low Crotch Shorts",
+    "texture": 0
+  },
+  { "id": "legs_84", "drawable": 84, "label": "Navy Low Crotch", "texture": 0 },
+  {
+    "id": "legs_85",
+    "drawable": 85,
+    "label": "Black Leather Low Crotch Jeans",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_86", "drawable": 86 },
+  {
+    "id": "legs_87",
+    "drawable": 87,
+    "label": "Neon Camo Leggings",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_88", "drawable": 88 },
+  {
+    "id": "legs_89",
+    "drawable": 89,
+    "label": "Blue Digital Cargo",
+    "texture": 0
+  },
+  {
+    "id": "legs_90",
+    "drawable": 90,
+    "label": "Blue Digital Cargo",
+    "texture": 0
+  },
+  {
+    "id": "legs_91",
+    "drawable": 91,
+    "label": "Blue Digital Cargo Shorts",
+    "texture": 0
+  },
+  {
+    "id": "legs_92",
+    "drawable": 92,
+    "label": "Blue Digital Overalls",
+    "texture": 0
+  },
+  {
+    "id": "legs_93",
+    "drawable": 93,
+    "label": "Indigo Denim Overalls",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_94", "drawable": 94 },
+  { "texture": 0, "id": "legs_95", "drawable": 95 },
+  { "texture": 0, "id": "legs_96", "drawable": 96 },
+  { "texture": 0, "id": "legs_97", "drawable": 97 },
+  { "texture": 0, "id": "legs_98", "drawable": 98 },
+  { "texture": 0, "id": "legs_99", "drawable": 99 },
+  { "texture": 0, "id": "legs_100", "drawable": 100 },
+  { "texture": 0, "id": "legs_101", "drawable": 101 },
+  { "texture": 0, "id": "legs_102", "drawable": 102 },
+  { "texture": 0, "id": "legs_103", "drawable": 103 },
+  {
+    "id": "legs_104",
+    "drawable": 104,
+    "label": "Dark Botanical Muscle Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_105", "drawable": 105 },
+  {
+    "id": "legs_106",
+    "drawable": 106,
+    "label": "Rust Leather Zippers",
+    "texture": 0
+  },
+  {
+    "id": "legs_107",
+    "drawable": 107,
+    "label": "Mustard Shorts",
+    "texture": 0
+  },
+  {
+    "id": "legs_108",
+    "drawable": 108,
+    "label": "Green Gradient Sequin",
+    "texture": 0
+  },
+  {
+    "id": "legs_109",
+    "drawable": 109,
+    "label": "Black Chain Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_110",
+    "drawable": 110,
+    "label": "Black Chain Shorts",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_111", "drawable": 111 },
+  {
+    "id": "legs_112",
+    "drawable": 112,
+    "label": "Black Leather Stitch Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_113", "drawable": 113 },
+  {
+    "id": "legs_114",
+    "drawable": 114,
+    "label": "Brown Raider Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_115", "drawable": 115 },
+  { "texture": 0, "id": "legs_116", "drawable": 116 },
+  { "texture": 0, "id": "legs_117", "drawable": 117 },
+  { "texture": 0, "id": "legs_118", "drawable": 118 },
+  { "texture": 0, "id": "legs_119", "drawable": 119 },
+  { "texture": 0, "id": "legs_120", "drawable": 120 },
+  { "texture": 0, "id": "legs_121", "drawable": 121 },
+  { "texture": 0, "id": "legs_122", "drawable": 122 },
+  {
+    "id": "legs_123",
+    "drawable": 123,
+    "label": "Red Baroque Knee Shorts",
+    "texture": 0
+  },
+  {
+    "id": "legs_124",
+    "drawable": 124,
+    "label": "Black Perseus Wide Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_125", "drawable": 125 },
+  { "texture": 0, "id": "legs_126", "drawable": 126 },
+  { "texture": 0, "id": "legs_127", "drawable": 127 },
+  {
+    "id": "legs_128",
+    "drawable": 128,
+    "label": "Correctional Cargo",
+    "texture": 0
+  },
+  {
+    "id": "legs_129",
+    "drawable": 129,
+    "label": "Correctional Cargo",
+    "texture": 0
+  },
+  {
+    "id": "legs_130",
+    "drawable": 130,
+    "label": "Blue Knee Pad Cargos",
+    "texture": 0
+  },
+  {
+    "id": "legs_131",
+    "drawable": 131,
+    "label": "Dark Gray Guarded Cargos",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_132", "drawable": 132 },
+  { "id": "legs_133", "drawable": 133, "label": "Dark Slacks", "texture": 0 },
+  {
+    "id": "legs_134",
+    "drawable": 134,
+    "label": "Cream Sports Track Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_135",
+    "drawable": 135,
+    "label": "Navy Large Cargos",
+    "texture": 0
+  },
+  {
+    "id": "legs_136",
+    "drawable": 136,
+    "label": "Navy Large Cargos",
+    "texture": 0
+  },
+  {
+    "id": "legs_137",
+    "drawable": 137,
+    "label": "Black Chino Shorts",
+    "texture": 0
+  },
+  {
+    "id": "legs_138",
+    "drawable": 138,
+    "label": "Bigness Tie-dye Sports Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_139",
+    "drawable": 139,
+    "label": "Broker Prolaps Basketball Shorts",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_140", "drawable": 140 },
+  { "texture": 0, "id": "legs_141", "drawable": 141 },
+  { "texture": 0, "id": "legs_142", "drawable": 142 },
+  { "texture": 0, "id": "legs_143", "drawable": 143 },
+  { "texture": 0, "id": "legs_144", "drawable": 144 },
+  {
+    "id": "legs_145",
+    "drawable": 145,
+    "label": "Brown Cuffed Sweats",
+    "texture": 0
+  },
+  {
+    "id": "legs_146",
+    "drawable": 146,
+    "label": "Blue Blagueurs Cuffed Sweats",
+    "texture": 0
+  },
+  {
+    "id": "legs_147",
+    "drawable": 147,
+    "label": "Teal Manor Cuffed Sweats",
+    "texture": 0
+  },
+  {
+    "id": "legs_148",
+    "drawable": 148,
+    "label": "Black Straight Chinos",
+    "texture": 0
+  },
+  {
+    "id": "legs_149",
+    "drawable": 149,
+    "label": "Peach Camo Straight Chinos",
+    "texture": 0
+  },
+  { "id": "legs_150", "drawable": 150, "label": "Black Beach", "texture": 0 },
+  {
+    "id": "legs_151",
+    "drawable": 151,
+    "label": "Green UFO Boxer Shorts",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_152", "drawable": 152 },
+  {
+    "id": "legs_153",
+    "drawable": 153,
+    "label": "White Jean Shorts",
+    "texture": 0
+  },
+  {
+    "id": "legs_154",
+    "drawable": 154,
+    "label": "Ash Denim Skirt",
+    "texture": 0
+  },
+  {
+    "id": "legs_155",
+    "drawable": 155,
+    "label": "Black Laced Leather",
+    "texture": 0
+  },
+  {
+    "id": "legs_156",
+    "drawable": 156,
+    "label": "Black Above Knee",
+    "texture": 0
+  },
+  { "id": "legs_157", "drawable": 157, "label": "White Turnups", "texture": 0 },
+  { "texture": 0, "id": "legs_158", "drawable": 158 },
+  {
+    "id": "legs_159",
+    "drawable": 159,
+    "label": "Gray Yeti Battle Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_160",
+    "drawable": 160,
+    "label": "Broker Checkerboard Cargos",
+    "texture": 0
+  },
+  {
+    "id": "legs_161",
+    "drawable": 161,
+    "label": "Broker Checkerboard Cargos",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_162", "drawable": 162 },
+  {
+    "id": "legs_163",
+    "drawable": 163,
+    "label": "Black Cimicino Embroidered",
+    "texture": 0
+  },
+  {
+    "id": "legs_164",
+    "drawable": 164,
+    "label": "Zebra Bigness Wide",
+    "texture": 0
+  },
+  {
+    "id": "legs_165",
+    "drawable": 165,
+    "label": "Black VDG Bandana Wide",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_166", "drawable": 166 },
+  { "texture": 0, "id": "legs_167", "drawable": 167 },
+  { "texture": 0, "id": "legs_168", "drawable": 168 },
+  { "id": "legs_169", "drawable": 169, "label": "Zebra Mini", "texture": 0 },
+  {
+    "id": "legs_170",
+    "drawable": 170,
+    "label": "Gray Camo Yeti Mini",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_171", "drawable": 171 },
+  { "id": "legs_172", "drawable": 172, "label": "PRB Shorts", "texture": 0 },
+  {
+    "id": "legs_173",
+    "drawable": 173,
+    "label": "Cluckin' Bell Cuffed Sweats",
+    "texture": 0
+  },
+  {
+    "id": "legs_174",
+    "drawable": 174,
+    "label": "Santo Capra x Manor Chinos",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_175", "drawable": 175 },
+  { "texture": 0, "id": "legs_176", "drawable": 176 },
+  { "texture": 0, "id": "legs_177", "drawable": 177 },
+  { "texture": 0, "id": "legs_178", "drawable": 178 },
+  {
+    "id": "legs_179",
+    "drawable": 179,
+    "label": "Hinterland Shorts",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_180", "drawable": 180 },
+  { "texture": 0, "id": "legs_181", "drawable": 181 },
+  {
+    "id": "legs_182",
+    "drawable": 182,
+    "label": "Black Snap Joggers",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_183", "drawable": 183 },
+  { "texture": 0, "id": "legs_184", "drawable": 184 },
+  { "texture": 0, "id": "legs_185", "drawable": 185 },
+  { "texture": 0, "id": "legs_186", "drawable": 186 },
+  { "texture": 0, "id": "legs_187", "drawable": 187 },
+  {
+    "id": "legs_188",
+    "drawable": 188,
+    "label": "Alien Tracksuit Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_189", "drawable": 189 },
+  { "texture": 0, "id": "legs_190", "drawable": 190 },
+  { "texture": 0, "id": "legs_191", "drawable": 191 },
+  { "texture": 0, "id": "legs_192", "drawable": 192 },
+  { "texture": 0, "id": "legs_193", "drawable": 193 },
+  { "texture": 0, "id": "legs_194", "drawable": 194 },
+  {
+    "id": "legs_195",
+    "drawable": 195,
+    "label": "Graffiti Jeans",
+    "texture": 0
+  },
+  {
+    "id": "legs_196",
+    "drawable": 196,
+    "label": "Black Lunar New Year Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_197",
+    "drawable": 197,
+    "label": "St Patrick's Day Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_198", "drawable": 198 },
+  {
+    "id": "legs_199",
+    "drawable": 199,
+    "label": "Western MC Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_200", "drawable": 200 },
+  { "texture": 0, "id": "legs_201", "drawable": 201 },
+  { "texture": 0, "id": "legs_202", "drawable": 202 },
+  { "texture": 0, "id": "legs_203", "drawable": 203 },
+  { "texture": 0, "id": "legs_204", "drawable": 204 },
+  { "texture": 0, "id": "legs_205", "drawable": 205 },
+  { "texture": 0, "id": "legs_206", "drawable": 206 },
+  { "texture": 0, "id": "legs_207", "drawable": 207 },
+  { "texture": 0, "id": "legs_208", "drawable": 208 },
+  {
+    "id": "legs_209",
+    "drawable": 209,
+    "label": "Cobalt Jackal Racing Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_210",
+    "drawable": 210,
+    "label": "Gold Pisswasser Shorts",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_211", "drawable": 211 },
+  {
+    "id": "legs_212",
+    "drawable": 212,
+    "label": "Khaki 247 Chino Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_213", "drawable": 213 },
+  { "texture": 0, "id": "legs_214", "drawable": 214 },
+  { "texture": 0, "id": "legs_215", "drawable": 215 },
+  { "texture": 0, "id": "legs_216", "drawable": 216 },
+  { "texture": 0, "id": "legs_217", "drawable": 217 },
+  { "texture": 0, "id": "legs_218", "drawable": 218 },
+  {
+    "id": "legs_219",
+    "drawable": 219,
+    "label": "Bigness Sketches Jeans",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_220", "drawable": 220 },
+  { "texture": 0, "id": "legs_221", "drawable": 221 },
+  {
+    "id": "legs_222",
+    "drawable": 222,
+    "label": "Champagne Pop Pants",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_223", "drawable": 223 },
+  { "texture": 0, "id": "legs_224", "drawable": 224 },
+  { "texture": 0, "id": "legs_225", "drawable": 225 },
+  { "texture": 0, "id": "legs_226", "drawable": 226 },
+  { "texture": 0, "id": "legs_227", "drawable": 227 },
+  {
+    "id": "legs_228",
+    "drawable": 228,
+    "label": "Lilac Tie-Dye Bigness Shorts",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_229", "drawable": 229 },
+  { "texture": 0, "id": "legs_230", "drawable": 230 },
+  { "texture": 0, "id": "legs_231", "drawable": 231 },
+  {
+    "id": "legs_232",
+    "drawable": 232,
+    "label": "Magnetics Track Pants",
+    "texture": 0
+  },
+  {
+    "id": "legs_233",
+    "drawable": 233,
+    "label": "LS Death Metal Shorts",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_234", "drawable": 234 },
+  { "texture": 0, "id": "legs_235", "drawable": 235 },
+  { "texture": 0, "id": "legs_236", "drawable": 236 },
+  { "texture": 0, "id": "legs_237", "drawable": 237 },
+  { "texture": 0, "id": "legs_238", "drawable": 238 },
+  { "texture": 0, "id": "legs_239", "drawable": 239 },
+  { "texture": 0, "id": "legs_240", "drawable": 240 },
+  {
+    "id": "legs_241",
+    "drawable": 241,
+    "label": "Junk x Jackal Wide",
+    "texture": 0
+  },
+  { "texture": 0, "id": "legs_242", "drawable": 242 }
+]

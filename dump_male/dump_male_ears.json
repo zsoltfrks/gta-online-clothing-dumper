@@ -1,0 +1,204 @@
+[
+  { "id": "ears_0", "drawable": 0, "texture": 0, "label": "Gray Earpiece" },
+  { "id": "ears_1", "drawable": 1, "texture": 0, "label": "Red Earpiece" },
+  { "id": "ears_2", "drawable": 2, "texture": 0, "label": "LCD Earpiece" },
+  {
+    "id": "ears_3",
+    "drawable": 3,
+    "texture": 0,
+    "label": "Gold Angled Hoop (L)"
+  },
+  {
+    "id": "ears_4",
+    "drawable": 4,
+    "texture": 0,
+    "label": "Gold Angled Hoop (R)"
+  },
+  { "id": "ears_5", "drawable": 5, "texture": 0, "label": "Gold Angled Hoops" },
+  {
+    "id": "ears_6",
+    "drawable": 6,
+    "texture": 0,
+    "label": "Gold Circle Stud (L)"
+  },
+  {
+    "id": "ears_7",
+    "drawable": 7,
+    "texture": 0,
+    "label": "Gold Circle Stud (R)"
+  },
+  { "id": "ears_8", "drawable": 8, "texture": 0, "label": "Gold Circle Studs" },
+  {
+    "id": "ears_9",
+    "drawable": 9,
+    "texture": 0,
+    "label": "Gold Diamond Stud (L)"
+  },
+  {
+    "id": "ears_10",
+    "drawable": 10,
+    "texture": 0,
+    "label": "Gold Diamond Stud (R)"
+  },
+  {
+    "id": "ears_11",
+    "drawable": 11,
+    "texture": 0,
+    "label": "Gold Diamond Studs"
+  },
+  {
+    "id": "ears_12",
+    "drawable": 12,
+    "texture": 0,
+    "label": "Gold Pillow Stud (L)"
+  },
+  {
+    "id": "ears_13",
+    "drawable": 13,
+    "texture": 0,
+    "label": "Gold Pillow Stud (R)"
+  },
+  {
+    "id": "ears_14",
+    "drawable": 14,
+    "texture": 0,
+    "label": "Gold Pillow Studs"
+  },
+  {
+    "id": "ears_15",
+    "drawable": 15,
+    "texture": 0,
+    "label": "Gold Gem Stud (L)"
+  },
+  {
+    "id": "ears_16",
+    "drawable": 16,
+    "texture": 0,
+    "label": "Gold Gem Stud (R)"
+  },
+  { "id": "ears_17", "drawable": 17, "texture": 0, "label": "Gold Gem Studs" },
+  {
+    "id": "ears_18",
+    "drawable": 18,
+    "texture": 0,
+    "label": "Gold Illusion Square Stud (L)"
+  },
+  {
+    "id": "ears_19",
+    "drawable": 19,
+    "texture": 0,
+    "label": "Gold Illusion Square Stud (R)"
+  },
+  {
+    "id": "ears_20",
+    "drawable": 20,
+    "texture": 0,
+    "label": "Gold Illusion Square Studs"
+  },
+  {
+    "id": "ears_21",
+    "drawable": 21,
+    "texture": 0,
+    "label": "Gold SN Stud (L)"
+  },
+  {
+    "id": "ears_22",
+    "drawable": 22,
+    "texture": 0,
+    "label": "Gold SN Stud (R)"
+  },
+  { "id": "ears_23", "drawable": 23, "texture": 0, "label": "Gold SN Studs" },
+  {
+    "id": "ears_24",
+    "drawable": 24,
+    "texture": 0,
+    "label": "Silver Skull Stud (L)"
+  },
+  {
+    "id": "ears_25",
+    "drawable": 25,
+    "texture": 0,
+    "label": "Silver Skull Stud (R)"
+  },
+  {
+    "id": "ears_26",
+    "drawable": 26,
+    "texture": 0,
+    "label": "Silver Skull Studs"
+  },
+  {
+    "id": "ears_27",
+    "drawable": 27,
+    "texture": 0,
+    "label": "Platinum Spike Stud (L)"
+  },
+  {
+    "id": "ears_28",
+    "drawable": 28,
+    "texture": 0,
+    "label": "Platinum Spike Stud (R)"
+  },
+  {
+    "id": "ears_29",
+    "drawable": 29,
+    "texture": 0,
+    "label": "Platinum Spike Studs"
+  },
+  {
+    "id": "ears_30",
+    "drawable": 30,
+    "texture": 0,
+    "label": "Gold Onyx Stud (L)"
+  },
+  {
+    "id": "ears_31",
+    "drawable": 31,
+    "texture": 0,
+    "label": "Gold Onyx Stud (R)"
+  },
+  { "id": "ears_32", "drawable": 32, "texture": 0, "label": "Gold Onyx Studs" },
+  { "texture": 0, "id": "ears_33", "drawable": 33 },
+  {
+    "id": "ears_34",
+    "drawable": 34,
+    "texture": 0,
+    "label": "Platinum SN Bullion Stud (L)"
+  },
+  {
+    "id": "ears_35",
+    "drawable": 35,
+    "texture": 0,
+    "label": "Platinum SN Bullion Stud (R)"
+  },
+  {
+    "id": "ears_36",
+    "drawable": 36,
+    "texture": 0,
+    "label": "Platinum SN Bullion Studs"
+  },
+  {
+    "id": "ears_37",
+    "drawable": 37,
+    "texture": 0,
+    "label": "Gold Fame or Shame Mics"
+  },
+  { "id": "ears_38", "drawable": 38, "texture": 0, "label": "Clubs Earrings" },
+  {
+    "id": "ears_39",
+    "drawable": 39,
+    "texture": 0,
+    "label": "White Dice Earrings"
+  },
+  {
+    "id": "ears_40",
+    "drawable": 40,
+    "texture": 0,
+    "label": "Black Chips Earrings"
+  },
+  {
+    "id": "ears_41",
+    "drawable": 41,
+    "texture": 0,
+    "label": "White Beat Off Earphones"
+  }
+]

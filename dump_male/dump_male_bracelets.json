@@ -1,0 +1,98 @@
+[
+  {
+    "id": "bracelets_0",
+    "drawable": 0,
+    "texture": 0,
+    "label": "Light Wrist Chain (R)"
+  },
+  {
+    "id": "bracelets_1",
+    "drawable": 1,
+    "texture": 0,
+    "label": "Chunky Wrist Chain (R)"
+  },
+  {
+    "id": "bracelets_2",
+    "drawable": 2,
+    "texture": 0,
+    "label": "Square Wrist Chain (R)"
+  },
+  {
+    "id": "bracelets_3",
+    "drawable": 3,
+    "texture": 0,
+    "label": "Skull Wrist Chain (R)"
+  },
+  {
+    "id": "bracelets_4",
+    "drawable": 4,
+    "texture": 0,
+    "label": "Tread Wrist Chain (R)"
+  },
+  {
+    "id": "bracelets_5",
+    "drawable": 5,
+    "texture": 0,
+    "label": "Gear Wrist Chains (R)"
+  },
+  {
+    "id": "bracelets_6",
+    "drawable": 6,
+    "texture": 0,
+    "label": "Spiked Gauntlet (R)"
+  },
+  {
+    "id": "bracelets_7",
+    "drawable": 7,
+    "texture": 0,
+    "label": "Black Gauntlet (R)"
+  },
+  {
+    "id": "bracelets_8",
+    "drawable": 8,
+    "texture": 0,
+    "label": "Blue Bangles (R)"
+  },
+  {
+    "id": "bracelets_9",
+    "drawable": 9,
+    "texture": 0,
+    "label": "Gold Meander Bracelet"
+  },
+  {
+    "id": "bracelets_10",
+    "drawable": 10,
+    "texture": 0,
+    "label": "Silver Chunky Bracelet"
+  },
+  {
+    "id": "bracelets_11",
+    "drawable": 11,
+    "texture": 0,
+    "label": "Silver Chain Bracelet"
+  },
+  {
+    "id": "bracelets_12",
+    "drawable": 12,
+    "texture": 0,
+    "label": "Black Woven Bracelet"
+  },
+  {
+    "id": "bracelets_13",
+    "drawable": 13,
+    "texture": 0,
+    "label": "Aqua Hippy Bracelet"
+  },
+  {
+    "id": "bracelets_14",
+    "drawable": 14,
+    "texture": 0,
+    "label": "Thick Silver Chain Bracelet (R)"
+  },
+  {
+    "id": "bracelets_15",
+    "drawable": 15,
+    "texture": 0,
+    "label": "Silver Bangle Cuff Bracelet (R)"
+  }
+]
