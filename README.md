@@ -25,6 +25,9 @@ They're complementary: the dumper gives you the authoritative list of drawables
 for the build you're running; the distiller labels them. Join the two on
 `(slot, drawable)`.
 
+> [!NOTE]  
+> Since we are using [root-cause/v-clothingnames](https://github.com/root-cause/v-clothingnames) for the clothing names, some clothes may not have a name so we might need to manually name those ones ourselves.
+
 ## Repo layout
 
 ```
