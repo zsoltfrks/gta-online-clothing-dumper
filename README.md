@@ -10,7 +10,7 @@ drawables grows with **every GTA Online DLC** — so a hard-coded list goes stal
 the moment Rockstar ships an update. These tools read the data fresh instead of
 guessing.
 
-<h2>In action example:</h2>
+<h2>In action example, tested on b3751:</h2> 
 <img width="1024" height="618" alt="Screenshot 2026-06-12 152948" src="https://github.com/user-attachments/assets/f550d0be-af31-4666-886e-0236f9e8fa6d" />
 
 
